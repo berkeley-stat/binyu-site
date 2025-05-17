@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## 2020 Fall
+
+- Statistical Models: Theory and Application  [[STAT 215A](https://classes.berkeley.edu/content/2019-Fall-STAT-215A-001-LEC-001)]
+
+## 2019 Fall
+
+- Statistical Models: Theory and Application  [[STAT 215A](https://classes.berkeley.edu/content/2019-Fall-STAT-215A-001-LEC-001)]
+
+## 2019 Spring
+
+- [Modern Statistical Prediction and Machine Learning](https://stat154.github.io/logistics/)  [[STAT 154](https://classes.berkeley.edu/content/2019-Spring-STAT-154-001-LEC-001)]
+

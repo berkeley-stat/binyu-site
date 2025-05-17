@@ -1,0 +1,14 @@
+---
+title: "Interdisciplinary Research in Biomedicine"
+---
+
+[Complete Paper List in Reverse Chronological Order](../papers.qmd)
+
+## Selected Recent Papers in Biomedicine
+
+1. Q. Wang,* T. M. Tang*, N. Youlton, C. S. Weldy, A. M. Kenney, O. Ronen, J. W. Hughes, E. T. Chin, S. C. Sutton. A. Agarwal, X. Li, M. Behr, K. Kumbier, C. S. Moravec, W. H. W. Tang, K. B. Margulies, T. P. Cappola, A. J. Buitte, R. Arnaout, J. B. Brown, J. R. Priest, V. N. Parikh, B. Yu*, E. Ashley* (2023). Epistasis regulates genetic control of cardiac hypertrophy. [https://www.medrxiv.org/content/10.1101/2023.11.06.23297858v1](https://www.medrxiv.org/content/10.1101/2023.11.06.23297858v1) ([Code](https://github.com/Yu-Group/epistasis-cardiac-hypertrophy)) ([PCS documentation](https://yu-group.github.io/epistasis-cardiac-hypertrophy/#overview))
+1. R. Cahill, Y. Wang, R. P. Xian, A. J. Lee, H. Zeng, B. Yu, B. Tasic, R. Abbasi-Asl (2023). Unsupervised pattern discovery in spatial gene expression atlas reveals mouse brain regions beyond established ontology. [https://www.biorxiv.org/content/10.1101/2023.03.10.531984v2](https://www.biorxiv.org/content/10.1101/2023.03.10.531984v2) ([Code](https://github.com/abbasilab/osNMF))
+1. E. Irajizad, A. Kenney, T. Tang, J. Vykoukal, R. Wu, E. Murage, J. B. Dennison, M. Sans, J. P. Long, M. Loftus, J. A. Chabot, M. D. Kluger, F. Kastrinos, L. Brais, A. Babic, K. Jajoo, L. S. Lee, T. E. Clancy, K. Ng, A. Bullock, J. M. Genkinger, A. Maitra, K. A. Do, B. Yu, B. W. Wolpin, S. Hanash, J. F. Fahrmann. (2023). [A blood-based metabolomic signature predictive of risk for pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/37729870/). Cell Reports Medicine 4(9): 101194. doi: 10.1016/j.xcrm.2023.101194. (PCS related) ([Editorial in Cell Reports Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10518497/) by L. Oldfield and E. Costello on Erajizad et al. (2023))
+1. A. R. Hsu, Y. Cherapanamjeri, B. Park, T. Naumann, A. Odisho, and B. Yu (2023). Diagnosing transformers: illuminating feature space for clinical decison-making. [https://arxiv.org/abs/2305.17588](https://arxiv.org/abs/2305.17588)
+1. N. Altieri, B. Park, J. DeNero, A. Odisho, B. Yu. (2021). [Improving natural language information extraction from cancer pathology reports using transfer learning and zero-shot string similarity.](https://pubmed.ncbi.nlm.nih.gov/34604711/) JAMIA Open. 2021 Sept. 30 4(3).
+1. B. Norgeot*, G. Quer, B. K. Beaulieu-Jones, A. Torkamani, R. Dias, M. Gianfrancesco, R. Arnaout, I. S. Kohane, S. Saria, E. Topol, Z. Obermeyer, B. Yu & A. Butte* (2020). [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y), Nature Medicine, 26, 1320–1324.

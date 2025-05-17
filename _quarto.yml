@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website:
+  site-url: https://binyu.stat.berkeley.edu
+  title: "Bin Yu"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - text: Papers
+        menu:
+          - href: papers.qmd
+            text: All Papers
+          - href: papers/deep-learning-and-machine-learning.qmd
+            text: Deep Learning and Machine Learning
+          - href: papers/veridical-data-science-pcs.qmd
+            text: Veridical Data Science (PCS)
+          - href: papers/interpretable-machine-learning.qmd
+            text: Interpretable Machine Learning
+          - href: papers/interdisciplinary-research-in-biomedicine.qmd
+            text: Interdisciplinary Research in Biomedicine
+          - href: papers/tree-based-methods.qmd
+            text: Tree-based Methods
+      - text: Code
+        href: https://www.stat.berkeley.edu/~yugroup/code.html
+      - href: teaching.qmd
+        text: Teaching
+      - href: bio.qmd
+        text: Bio
+      - text: Yu Group
+        href: https://www.stat.berkeley.edu/~yugroup/
+  page-footer:
+    left: "&copy; Bin Yu"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    fontsize: 0.9em
+    toc: true
+    mainfont: "Lora"
+    include-in-header:
+      file: siteimprove.html

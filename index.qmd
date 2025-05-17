@@ -1,0 +1,73 @@
+---
+title: Home
+title-block: false
+format:
+  html:
+    css: styles.css
+---
+
+<div style="text-align:center">
+# Bin Yu
+</div>
+
+<img src="images/binyu.jpg" alt="Bin Yu" style="float:right; margin:0 0 1em 2em; width:200px; border-radius:8px;" />
+
+
+CDSS Chancellor's Distinguished Professor
+
+Departments of [Statistics](https://statistics.berkeley.edu/) and [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/), Center for Computational Biology
+
+[UC Berkeley](https://www.berkeley.edu/)
+
+[Chan-Zuckerberg Biohub](https://www.czbiohub.org/) Investigator Alumnus • [Weill Neurohub](https://www.weillneurohub.org/) Investigator
+
+*mail: 367 Evans Hall #3860 • Berkeley, CA 94720*
+
+*phone: 510-642-2781 • fax: 510-642-7892 • [binyu@berkeley.edu](mailto:binyu@berkeley.edu)*
+
+## Welcome
+
+Professor Bin Yu is the head of the [Yu Group](https://www.stat.berkeley.edu/~yugroup/) at Berkeley, which consists of 12-15 students and postdocs from Statistics and EECS. She was formally trained as a statistician, but her research interests and achievements extend beyond the realm of statistics. Together with her group, Bin Yu has leveraged new computational developments to solve important scientific problems by combining novel and often interpretable statistical machine learning approaches with the domain expertise of her many collaborators in neuroscience, genomics and precision medicine. She also develops relevant theory to understand random forests and deep learning for insight into and guidance for practice. Her work has been recognized by many awards. In particular, she was inducted to the National Academy of Sciences in 2014 and to the American Academy of Arts and Sciences in 2013. She delivered the IMS Wald Lectures and COPSS Distinguished Achievement and Award Lecture (DAAL, formerly Fisher Award and Lecture) in 2023.
+
+She and her team have developed the PCS framework for veridical data science (or responsible, reliable, and transparent data analysis and decision-making). PCS stands for predictability, computability and stability, and it unifies, streamlines, and expands on ideas and best practices of machine learning and statistics.
+
+In order to augment empirical evidence for decision-making, they are investigating statistical machine learning methods/algorithms (and associated statistical inference problems) such as dictionary learning, non-negative matrix factorization (NMF), EM and deep learning (CNNs and LSTMs), and heterogeneous effect estimation in randomized experiments (X-learner). Their recent algorithms include staNMF for unsupervised learning, iterative Random Forests (iRF) and signed iRF (s-iRF) for discovering predictive and stable high-order interactions in supervised learning, next generation tree-based methods (e.g. fast and interpretable greedy-tree sums (FIGS) and hierarchical shrinked (HS) trees, and RF+ ), contextual decomposition (CD), aggregated contextual decomposition (ACD), and adaptive wavelet distillation (AWD) for interpretation of Deep Neural Networks (DNNs).
+
+## My vision for data science - papers & talks
+
+- [Rome Workshop on Veridical Data Science, June 20, 2025](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html) (New)
+- [Veridical data science and medical foundation models](https://arxiv.org/abs/2409.10580) on arXiv by Alaa and Yu.
+- [VDS book review](https://hdsr.mitpress.mit.edu/pub/5322mn1e/release/3) by Yuval and Yoav Benjamini in Harvard Data Science Review (HDSR)-- "pedagogical excellence, diverse examples, and projects make Veridical Data Science a suitable textbook for students of all levels, in addition to being a valuable resource for data scientists in general" (review summary in HDSR Editor-in-Chief's note), June, 2024.
+- [Inaugural Berkeley-Stanford Workshop on Veridical Data Science at UC Berkeley](https://na.eventscloud.com/website/69057/) (May 31, 2024) ([talk videos available](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSrg4jwLSioaV1bwmFnQ1Bx))
+- My co-author [Rebecca Barter](https://rebeccabarter.com/) and I are thrilled to announce the [online release](http://vdsbook.com/) of our MIT Press book ["Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making"](https://mitpress.mit.edu/9780262049191/veridical-data-science/), an essential source for producing trustworthy data-driven results (Feb. 28, 2024).
+- ["Veridical data science towards trustworthy AI"](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm) (Talk video of COPSS DAAL (formerly Fisher Award and Lecture), scroll down), Aug. JSM in Toronto, 2023.
+- [What is uncertainty in today's practice of data science?](https://www.sciencedirect.com/science/article/pii/S030440762300235X?dgcid=author) (Yu, 2023). Journal of Econometrics.
+- [Building trust in medical AI algorithms with veridical data science](https://link.springer.com/epdf/10.1007/s13218-023-00803-y?sharing_token=ebI2N15qM6XZUegMth-Quve4RwlQNchNByi7wbcMAY7HhSJ5V2qZIFNLqxQFZ-zTvebYYHuYBEDcXzQl7eRE1JVsvjcy_eFebw0xZW9UU9CqWdFLLGd22GvHmjiyaKtyaRMQToSpZQruTneGX1KD5rV1I5kdcOMfqUq47TrVW5E%3D) (interview of Bin Yu by Dr. Merle Behr for the German scientific journal [KI - Künstliche Intelligenz](https://www.springer.com/journal/13218)), 2023
+- [Veridical data science](https://www.pnas.org/content/117/8/3920) (PCS framework: [v-flow code](https://github.com/Yu-Group/veridical-flow) and [documentation template](https://yu-group.github.io/vdocs/PCSDoc-Template.html)), PNAS, 2020 ([QnAs with Bin Yu](https://www.pnas.org/content/117/8/3893))
+- [Breiman Lecture (video) at NeurIPS "Veridical data Science"](https://slideslive.com/38922599/veridical-data-science) ([PCS framework](https://www.pnas.org/content/117/8/3920) and iterative random forests ([iRF](https://www.pnas.org/content/115/8/1943))), 2019; [updated slides](https://www.stat.berkeley.edu/~binyu/ps/papers2020/Breiman19-NeurIPS-yu.pdf), 2020
+- [Stability](https://projecteuclid.org/euclid.bj/1377612862), Bernoulli, 2013
+- [Stability expanded, in reality](https://hdsr.mitpress.mit.edu/pub/ekrhsui8/release/2), Harvard Data Science Review (HDSR), 2020.
+- [Data science process: one culture.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1762615?journalCode=uasa20) JASA, 2020.
+- [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y), Nature Medicine, 2020.
+- [Definitions, methods and applications in interpretable machine learning](https://www.pnas.org/content/116/44/22071), PNAS, 2019
+- [Data wisdom for data science (blog)](http://www.odbms.org/2015/04/data-wisdom-for-data-science/), 2015
+- [IMS Presidential Address "Let us own data science"](https://imstat.org/2014/10/01/ims-presidential-address-let-us-own-data-science/), IMS Bulletin, 2014
+- [Embracing statistical challenges in the IT age](https://www.tandfonline.com/doi/abs/10.1198/004017007000000254), Technometrics, 2007
+
+## In the news
+
+- IMS Wald [Lecture I](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1029) and [Lecture II](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1031), and [COPSS Distinguished Award and Lecture (DAAL)](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1374) delivered at [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/) in Toronto, August 2023
+- UC Berkeley team part of the new NSF AI Center for Cybersecurity [ACTION](https://action.ucsb.edu/) led by UCSB.
+- [CDSS news: Statistics-Computer Science team reflects on tackling covid outbreaks](https://data.berkeley.edu/news/statistics-computer-sciences-team-reflects-tackling-covid-outbreaks), May, 2022
+- Honorary Doctorate, University of Lausanne (UNIL) (Faculty of Business and Economics), June 4, 2021 ([Interview of Bin Yu](https://www.youtube.com/watch?v=1JRGPGhcYzU) by journalist Nathalie Randin, with an introduction by Dean Jean-Philippe Bonardi of UNIL in French ([English translation](https://www.stat.berkeley.edu/~binyu/Intro-DeanBonardi-UNIL.pdf)))
+- [CDSS news on our PCS framework: "A better framework for more robust, trustworthy data science"](https://data.berkeley.edu/people/bin-yu), Oct. 2020
+- [UC Berkeley to lead $10M NSF/Simons Foundation program to investigate theoretical underpinnings of deep learning](https://data.berkeley.edu/news/uc-berkeley-lead-10m-nsfsimons-foundation-program-investigate-theoretical-underpinnings-deep), Aug. 25, 2020
+- [Curating COVID-19 data repository and forecasting county-level death counts in the US](https://engineering.berkeley.edu/news/2020/04/getting-the-right-equipment-to-the-right-people/), 2020
+- [Interviewed by PBS Nova about AlphaZero](https://www.pbs.org/wgbh/nova/article/google-alphazero-artificial-intelligence/), 2018
+- [Mapping a cell's destiny](https://newscenter.lbl.gov/2016/05/04/mapping-cells-destiny/), 2016
+- [Seeking Data Wisdom](https://vcresearch.berkeley.edu/news/seeking-data-wisdom), 2015
+- [Member, National Academy of Sciences](http://www.dcd.zju.edu.cn/Hsu-conference/pr.htm), 2014
+- [Fellow, American Academy of Arts and Sciences](http://www.dcd.zju.edu.cn/Hsu-conference/pr.htm), 2013
+- [One of the 50 best inventions of 2011 by Time Magazine](http://content.time.com/time/magazine/article/0,9171,2099708,00.html), 2011
+- [The Economist Article](http://www.economist.com/node/21534748), 2011
+- [ScienceMatters @ Berkeley. Dealing with Cloudy Data](https://www.stat.berkeley.edu/~binyu/ps/dealingwithcloudydata.pdf), 2004
