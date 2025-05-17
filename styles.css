@@ -1,0 +1,32 @@
+/* Custom styles for Bin Yu Quarto site */
+
+/* Import Lora font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+body, .navbar, .nav, .dropdown-menu, .dropdown-item, .card, .card-body, .card-title, .card-text {
+  font-family: 'Lora', serif !important;
+}
+
+.navbar {
+  background-color: #fff !important;
+}
+
+.navbar .navbar-nav > li > a {
+  color: #222 !important;
+}
+
+body {
+  background: #f8f9fa;
+}
+
+/* Hide the page title on the homepage */
+body.page-index .quarto-title-banner,
+body.page-index .title,
+body.page-index h1.title {
+  display: none !important;
+}
+
+/* Fallback: hide any h1.title */
+h1.title {
+  display: none !important;
+}
