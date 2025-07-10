@@ -35,7 +35,7 @@ In order to augment empirical evidence for decision-making, they are investigati
 
 ## My vision for data science - papers & talks
 
-- [New paper: PCS workflow for veridical data science in the age of AI] (https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf)
+- [New paper: PCS workflow for veridical data science in the age of AI](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf)
 - [Veridical Data Science in Biology on July 11, 2024 at UC Berkeley (Submission deadline July 4)](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179)
 - [Rome Workshop on Veridical Data Science, June 20, 2025](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html) (New)
 - [Veridical data science and medical foundation models](https://arxiv.org/abs/2409.10580) on arXiv by Alaa and Yu.
