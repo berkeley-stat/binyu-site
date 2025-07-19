@@ -34,3 +34,33 @@ h1.title {
 h1, .h1, h2, .h2 {
   font-weight: 400;
 }
+
+/* Two-column responsive layout for publications and news */
+.two-column-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .two-column-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+.column {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.column h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+}

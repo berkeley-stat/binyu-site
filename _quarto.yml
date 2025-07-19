@@ -8,8 +8,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - href: about.qmd
+        text: About
       - text: Papers
         menu:
           - href: papers.qmd
@@ -28,8 +28,6 @@ website:
         href: https://www.stat.berkeley.edu/~yugroup/code.html
       - href: teaching.qmd
         text: Teaching
-      - href: bio.qmd
-        text: Bio
       # - text: Yu Group
       #   href: https://www.stat.berkeley.edu/~yugroup/
   page-footer:
