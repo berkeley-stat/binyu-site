@@ -30,8 +30,8 @@ website:
         text: Teaching
       - href: bio.qmd
         text: Bio
-      - text: Yu Group
-        href: https://www.stat.berkeley.edu/~yugroup/
+      # - text: Yu Group
+      #   href: https://www.stat.berkeley.edu/~yugroup/
   page-footer:
     left: "&copy; Bin Yu"
 
