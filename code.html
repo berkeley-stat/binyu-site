@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Bin Yu</title>
+<title>Code – Bin Yu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -95,51 +95,28 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
-<span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-papers" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Papers</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-papers">    
-        <li>
-    <a class="dropdown-item" href="./papers.html">
- <span class="dropdown-text">All Papers</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./papers/deep-learning-and-machine-learning.html">
- <span class="dropdown-text">Deep Learning and Machine Learning</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./papers/veridical-data-science-pcs.html">
- <span class="dropdown-text">Veridical Data Science (PCS)</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./papers/interpretable-machine-learning.html">
- <span class="dropdown-text">Interpretable Machine Learning</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./papers/interdisciplinary-research-in-biomedicine.html">
- <span class="dropdown-text">Interdisciplinary Research in Biomedicine</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./papers/tree-based-methods.html">
- <span class="dropdown-text">Tree-based Methods</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.stat.berkeley.edu/~yugroup/code.html"> 
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./papers.html"> 
+<span class="menu-text">Papers</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./books.html"> 
+<span class="menu-text">Books</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./code.html" aria-current="page"> 
 <span class="menu-text">Code</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./bio.html"> 
-<span class="menu-text">Bio</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -157,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#research" id="toc-research" class="nav-link active" data-scroll-target="#research">Research</a></li>
+  <li><a href="#software" id="toc-software" class="nav-link active" data-scroll-target="#software">Software</a></li>
   </ul>
 </nav>
     </div>
@@ -166,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Code</h1>
 </div>
 
 
@@ -183,18 +160,43 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="research" class="level1">
-<h1>Research</h1>
-<p>In 2014, I was elected to the National Academy of Sciences based on my statistical and scientific contributions, as well as my broad vision of data science best described in my article <a href="https://www.pnas.org/content/117/8/3920">Veridical Data Science</a>, written together with my former student Karl Kumbier. In this work, I introduced a framework based on three principles: predictability, computability and stability (abbreviated to PCS). This framework helps guide practitioners who solve domain data problems with data science tools to be creative in their analysis and properly validate their findings. I have written a book on the Veridical Data Science framework together with my former student <a href="https://www.rebeccabarter.com/">Rebecca Barter</a>. The book is being published by the MIT Press in 2024 with a free on-line copy available soon.</p>
-<p>In my research group, I cultivate a strongly interdisciplinary and collaborative culture, solving data problems across fields such as neuroscience, genomics, remote sensing, and precision medicine. Through these projects we have successfully <a href="https://newscenter.lbl.gov/2016/05/04/mapping-cells-destiny/">mapped a cell’s destiny</a> using spatial gene expression images of Drosophila embryos, we have characterized V4 neurons through <a href="https://www.biorxiv.org/content/10.1101/465534v1">DeepTune</a> images, and we are currently seeking genomic markers of heart disease using UK Biobank data. Recently, my group and I have developed approaches for <a href="https://covidseverity.com/">predicting county-level COVID-19 death counts</a> in an effort to support the non-profit, <a href="https://response4life.org/">Response4Life</a>, who are working towards distributing PPE across the country to those who need it most.</p>
-<p>The Yu Group and I have also developed an array of statistical and machine learning methods inspired by our interdisciplinary projects, including <a href="https://github.com/Yu-Group/staNMF">stability-driven nonnegative matrix factorization (staNMF)</a> for unsupervised learning, <a href="https://github.com/Yu-Group/iterative-Random-Forest">iterative Random Forests (iRF)</a> and <a href="https://github.com/karlkumbier/iRF2.0">signed iRF (s-iRF)</a> for discovering predictive and stable high-order (Boolean) interactions in supervised learning, <a href="https://github.com/jamie-murdoch/ContextualDecomposition">contextual decomposition (CD)</a> and <a href="https://github.com/csinva/hierarchical-dnn-interpretations">aggregated contextual decomposition (ACD)</a> for phrase or patch importance extraction from Deep Neural Networks (DNNs).</p>
-<p>Research is supported in part by grants from NSF, NIH, the Weill Neurohub, and the Simons Foundation.</p>
+<section id="software" class="level1">
+<h1>Software</h1>
+<p><em>Also see our group’s public repos on <a href="https://github.com/Yu-Group">GitHub</a>.</em></p>
 <ul>
-<li><a href="https://www.stat.berkeley.edu/~yugroup/">Yu Group at Berkeley</a> for current group members and current projects</li>
-<li><a href="https://binyu.stat.berkeley.edu/papers">Papers</a></li>
-<li><a href="https://www.stat.berkeley.edu/~yugroup/code.html">Code</a></li>
-<li><a href="http://www.stat.berkeley.edu/~statlearning/">Statistical Machine Learning at Berkeley</a></li>
+<li><p><strong><a href="https://github.com/Yu-Group/veridical-flow">VeridicalFlow</a></strong>: Library for building stable, trustworthy data-science pipelines, PCS framework, <a href="https://www.pnas.org/content/117/8/3920">paper</a>, <a href="https://vflow.csinva.io/">docs</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/simChef">simChef</a></strong>: R package to facilitate PCS simulation studies, data science workflows</p></li>
+<li><p><strong><a href="https://github.com/csinva/imodels">imodels</a></strong>: Python package for interpretable machine learning models, FIGS, hierarchical shrinkage, MDI+, <a href="https://arxiv.org/abs/2201.11931">FIGS paper</a>, <a href="https://arxiv.org/abs/2202.00858">hierarchical shrinkage paper</a>, <a href="https://arxiv.org/pdf/2307.01932">MDI+ paper</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/iterative-Random-Forest">iRF</a></strong>: Iterative Random Forests, stable high-order interactions, PCS-guided, <a href="https://www.pnas.org/content/115/8/1943">paper</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/adaptive-wavelets">Adaptive wavelets</a></strong>: Adaptive interpretable wavelets and wavelet distillation, domain-agnostic, <a href="https://www.nature.com/articles/s41467-021-25759-1">paper</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/covid19-severity-prediction">COVID-19 severity prediction</a></strong>: Extensive COVID-19 data and forecasting for counties and hospitals, pandemic severity index, <a href="https://hdsr.mitpress.mit.edu/pub/p6isyf0g">paper</a>, <a href="http://covidseverity.com/">website</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/epistasis-cardiac-hypertrophy">Epistasis cardiac hypertrophy</a></strong>: Code for epistasis in genetic control of cardiac hypertrophy, PCS-guided, <a href="https://www.biorxiv.org/content/10.1101/2021.12.22.473882v2">preprint</a>, <a href="https://yu-group.github.io/epistasis-cardiac-hypertrophy/">PCS docs</a></p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/molecular-partner-prediction">Molecular partner prediction</a></strong>: Predicting successful CME events using clathrin markers, cell biology</p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/sMPS2">sMPS2</a></strong>: Simplified MyProstateScore2.0 for high-grade prostate cancer detection, clinical decision rules</p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/MS-analysis-NMF">MS-analysis-NMF</a></strong>: Non-negative matrix factorization for deconvolving complex mass spectra, simulation study</p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/vds-book-supplementary">VDS book supplementary</a></strong>: Supplementary materials for Veridical Data Science book, educational resources</p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/imodels-experiments">imodels-experiments</a></strong>: Experimental interpretable models to accompany imodels package, rule-based models</p></li>
+<li><p><strong><a href="https://github.com/Yu-Group/yugroup-website">Yu Group website</a></strong>: Source code for the Yu Group website, web development</p></li>
 </ul>
+<!-- * **escv**: Selection of regularization for lasso, sparser interpretable models, first work related to PCS, [paper](https://www.tandfonline.com/doi/full/10.1080/10618600.2015.1092978)
+
+* **stanmf**: Stability driven non-negative matrix factorization, PCS-guided dimensionality reduction, [paper](https://www.pnas.org/content/113/16/4290)
+
+* **Causal inference**: X-learner for CATE prediction, staDISC for discovering stable subgroups, PCS-guided causal methods, [X-learner paper](https://arxiv.org/abs/1706.03461), [staDISC paper](https://arxiv.org/abs/2008.10109)
+
+* **epiTree**: Learning epistatic polygenic phenotypes with boolean interactions, PCS inference, genetics, [paper](https://www.biorxiv.org/content/10.1101/2020.11.24.396846v1)
+
+* **staDRIP**: Drug-response prediction using stability-driven methods, PCS-guided precision medicine, [paper](https://arxiv.org/abs/2011.06593)
+
+* **Superheat**: R package for generating beautiful and customizable heatmaps, data visualization, [paper](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1473780)
+
+* **SUFO**: Embedding space interpretations for mechanistic neural network understanding, transformers, [paper](https://arxiv.org/abs/2305.17588)
+
+* **ACD**: Hierarchical interpretations for neural networks, TRIM, CDEP, SPEX for feature attribution and LLMs, [ACD paper](https://arxiv.org/abs/1806.05337), [CD-T paper](https://arxiv.org/abs/2407.00886)
+
+* **MDI OOB**: Debiased random forest feature importance, statistical inference, [MDI+ paper](https://arxiv.org/abs/2307.01932), [MDI OOB paper](https://arxiv.org/abs/1906.10845)
+
+* **MDL-Complexity**: Model complexity theory, information theory applications, [paper](https://jmlr.org/papers/v24/21-1133.html) -->
 
 
 </section>
