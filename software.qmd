@@ -4,7 +4,7 @@ title: Software
 
 # Software 
 
-*Also see our group's public repos on [GitHub](https://github.com/Yu-Group).*
+*Also see [GitHub](https://github.com/Yu-Group)*
 
 * **[VeridicalFlow](https://github.com/Yu-Group/veridical-flow)**: Library for building stable, trustworthy data-science pipelines, PCS framework, [paper](https://www.pnas.org/content/117/8/3920), [docs](https://vflow.csinva.io/)
 
