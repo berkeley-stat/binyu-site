@@ -23,7 +23,7 @@ website:
       # - text: Yu Group
       #   href: https://www.stat.berkeley.edu/~yugroup/
   page-footer:
-    left: "&copy; Bin Yu"
+    center: "&copy; 2025 Bin Yu"
 
 format:
   html:

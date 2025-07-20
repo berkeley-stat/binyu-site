@@ -35,6 +35,20 @@ h1, .h1, h2, .h2 {
   font-weight: 400;
 }
 
+/* Make columns container use flexbox for equal height */
+.columns {
+  display: flex;
+  align-items: stretch;
+}
+
+/* Image column styling */
+.column img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
 /* Two-column responsive layout for publications and news */
 .two-column-container {
   display: grid;
@@ -59,4 +73,11 @@ h1, .h1, h2, .h2 {
   margin-top: 0;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
+}
+
+/* Spacing for year entries in news/publications lists */
+.year-entry {
+  margin-right: 1rem;
+  font-style: normal;
+  font-weight: normal;
 }
