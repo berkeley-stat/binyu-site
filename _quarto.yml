@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: https://binyu.stat.berkeley.edu
-  title: "Bin Yu"
+  title: "Professor Bin Yu's Research Group"
   navbar:
     right:
       - href: index.qmd
