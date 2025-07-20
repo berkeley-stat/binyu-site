@@ -16,9 +16,8 @@ format:
 ::: {.column width="60%"}
 ## Professor Bin Yu
 
-Chancellor's Distinguished Professor of Statistics  
-Statistics Department Chair, 2009 - 2012  
-Professor of Electrical Engineering and Computer Sciences, by courtesy
+Chancellor's Distinguished Professor of Statistics, Electrical Engineering and Computer Sciences  
+Statistics Department Chair, 2009 - 2012
 
 ## Contact
 
