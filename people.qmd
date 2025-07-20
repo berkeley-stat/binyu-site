@@ -26,7 +26,6 @@ title: "People"
 - Corine Elliot (2024) - Statistical Scientist, Berry Consultants
 - James Duncan (2024) - Climate ML Engineering, Allen Institute for AI (AI2)
 - Tiffany Tang (2023) - Clare Boothe Luce Assistant Professor, University of Notre Dame
-- Yeshwanth Cherapanamjeri (2023) - Postdoctoral Researcher, MIT
 - Dennis Shen (2023) - Assistant Professor, USC
 - Spencer Frei (2023) - Assistant Professor, UC Davis
 - Rebecca L. Barter (2022) - Research Assistant Professor, University of Utah
@@ -82,6 +81,7 @@ title: "People"
 
 ## Former Post-docs, Visitors, and Associates (Starting Year)
 
+- Yeshwanth Cherapanamjeri (2023)
 - Arman Sabbaghi (2022)
 - Yanjun Qi (2020)
 - Ezequiel Smucler (2020)
