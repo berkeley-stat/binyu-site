@@ -16,8 +16,8 @@ website:
         href: papers.qmd
       - text: Books
         href: books.qmd
-      - text: Code
-        href: code.qmd
+      - text: Software
+        href: software.qmd
       - href: teaching.qmd
         text: Teaching
       # - text: Yu Group

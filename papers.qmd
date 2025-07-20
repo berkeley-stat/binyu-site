@@ -35,29 +35,29 @@ C. Singh*, A. R. Hsu*, R. Antonello, S. Jain, A. G. Huth, B. Yu, J. Gao (2023). 
 
 Q. Zhang, C. Singh, L. Liu, X. Liu, B. Yu, J. Gao, T. Zhao (2023). [Tell your model where to attend: post-hoc attention steering for LLMs.](https://arxiv.org/abs/2311.02262)
 
-Q. Wang*, T. M. Tang*, N. Youlton, C. S. Weldy, A. M. Kenney, O. Ronen, J. W. Hughes, E. T. Chin, S. C. Sutton, A. Agarwal, X. Li, M. Behr, K. Kumbier, C. S. Moravec, W. H. W. Tang, K. B. Margulies, T. P. Cappola, A. J. Buitte, R. Arnaout, J. B. Brown, J. R. Priest, V. N. Parikh, B. Yu*, E. Ashley* (2023). Epistasis regulates genetic control of cardiac hypertrophy. [medRxiv](https://www.medrxiv.org/content/10.1101/2023.11.06.23297858v1) ([Code](https://github.com/Yu-Group/epistasis-cardiac-hypertrophy)) ([PCS documentation](https://yu-group.github.io/epistasis-cardiac-hypertrophy/#overview))
+Q. Wang*, T. M. Tang*, N. Youlton, C. S. Weldy, A. M. Kenney, O. Ronen, J. W. Hughes, E. T. Chin, S. C. Sutton, A. Agarwal, X. Li, M. Behr, K. Kumbier, C. S. Moravec, W. H. W. Tang, K. B. Margulies, T. P. Cappola, A. J. Buitte, R. Arnaout, J. B. Brown, J. R. Priest, V. N. Parikh, B. Yu*, E. Ashley* (2023). [Epistasis regulates genetic control of cardiac hypertrophy.](https://www.medrxiv.org/content/10.1101/2023.11.06.23297858v1) ([Code](https://github.com/Yu-Group/epistasis-cardiac-hypertrophy)) ([PCS documentation](https://yu-group.github.io/epistasis-cardiac-hypertrophy/#overview))
 
-R. Cahill, Y. Wang, R. P. Xian, A. J. Lee, H. Zeng, B. Yu, B. Tasic, R. Abbasi-Asl (2023). Unsupervised pattern discovery in spatial gene expression atlas reveals mouse brain regions beyond established ontology. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.10.531984v2) ([Code](https://github.com/abbasilab/osNMF))
+R. Cahill, Y. Wang, R. P. Xian, A. J. Lee, H. Zeng, B. Yu, B. Tasic, R. Abbasi-Asl (2023). [Unsupervised pattern discovery in spatial gene expression atlas reveals mouse brain regions beyond established ontology.](https://www.biorxiv.org/content/10.1101/2023.03.10.531984v2) ([Code](https://github.com/abbasilab/osNMF))
 
 E. Irajizad, A. Kenney, T. Tang, J. Vykoukal, R. Wu, E. Murage, J. B. Dennison, M. Sans, J. P. Long, M. Loftus, J. A. Chabot, M. D. Kluger, F. Kastrinos, L. Brais, A. Babic, K. Jajoo, L. S. Lee, T. E. Clancy, K. Ng, A. Bullock, J. M. Genkinger, A. Maitra, K. A. Do, B. Yu, B. W. Wolpin, S. Hanash, J. F. Fahrmann. (2023). [A blood-based metabolomic signature predictive of risk for pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/37729870/). Cell Reports Medicine 4(9): 101194. doi: 10.1016/j.xcrm.2023.101194. (PCS related) ([Editorial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10518497/))
 
 R. Dwivedi, C. Singh, B. Yu, M. Wainwright (2023). [Revisiting miniumu description length complexity in overparametrized models.](https://jmlr.org/papers/v24/21-1133.html) JMLR, 24(268): 1-59.
 
-K. Wu, Y. Chen, W. Ha, B. Yu (2023). [Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms.](https://arxiv.org/abs/2309.10301) JMLR (accepted). [https://arxiv.org/abs/2309.10301](https://arxiv.org/abs/2309.10301)
+K. Wu, Y. Chen, W. Ha, B. Yu (2023). [Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms.](https://arxiv.org/abs/2309.10301) JMLR (accepted).
 
-N. Ghosh, S. Frei, W. Ha, B. Yu (2023). The effect of SGD batch size on autoencoder learning: sparsity, sharpness and feature learning. [https://arxiv.org/abs/2308.03215](https://arxiv.org/abs/2308.03215)
+N. Ghosh, S. Frei, W. Ha, B. Yu (2023). [The effect of SGD batch size on autoencoder learning: sparsity, sharpness and feature learning.](https://arxiv.org/abs/2308.03215)
 
-R. Netzorg, J. Li, B. Yu (2024). Improving prototypical part networks with reward reweighting, reselection, and retraining. Proc. ICML. [https://arxiv.org/abs/2307.03887](https://arxiv.org/abs/2307.03887)
+R. Netzorg, J. Li, B. Yu (2024). [Improving prototypical part networks with reward reweighting, reselection, and retraining.](https://arxiv.org/abs/2307.03887) Proc. ICML.
 
-A. Agarwal, A. M. Kenny, Y. S. Tan, T. M. Tang, B. Yu (2023). MDI+: a flexible random forest-based feature importance framework. [https://arxiv.org/abs/2307.01932](https://arxiv.org/abs/2307.01932) (PCS related)
+A. Agarwal, A. M. Kenny, Y. S. Tan, T. M. Tang, B. Yu (2023). [MDI+: a flexible random forest-based feature importance framework.](https://arxiv.org/abs/2307.01932) (PCS related)
 
-A. R. Hsu, Y. Cherapanamjeri, B. Park, T. Naumann, A. Odisho, and B. Yu (2023). Diagnosing transformers: illuminating feature space for clinical decison-making. Proc. ICLR. [https://arxiv.org/abs/2305.17588](https://arxiv.org/abs/2305.17588)
+A. R. Hsu, Y. Cherapanamjeri, B. Park, T. Naumann, A. Odisho, and B. Yu (2023). [Diagnosing transformers: illuminating feature space for clinical decison-making.](https://arxiv.org/abs/2305.17588) Proc. ICLR.
 
-C. Singh, A. R. Hsu, R. Antonello, S. Jain, A. G. Huth, B. Yu and J. Gao (2023). Explaining black box text modules in natural language with language models. [https://arxiv.org/abs/2305.09863](https://arxiv.org/abs/2305.09863)
+C. Singh, A. R. Hsu, R. Antonello, S. Jain, A. G. Huth, B. Yu and J. Gao (2023). [Explaining black box text modules in natural language with language models.](https://arxiv.org/abs/2305.09863)
 
 ## 2022
 
-D. Shen, P. Ding, J. Sekhon, B. Yu (2022). Same root different leaves: time series and cross-sectional methods in panel data. Econometrica (accepted). [https://arxiv.org/abs/2207.14481](https://arxiv.org/abs/2207.14481)
+D. Shen, P. Ding, J. Sekhon, B. Yu (2022). [Same root different leaves: time series and cross-sectional methods in panel data.](https://arxiv.org/abs/2207.14481) Econometrica (accepted).
 
 B. Park, X. Wu, B. Yu, A. Zhou (2022). [Offline evaluation in RL: soft stability weighting to combine fitted Q-learning and model-based methods.](https://openreview.net/forum?id=R3h3-bt0mq) NeurIPS 3rd Offline Reinforcement Learning Workshop.
 
@@ -81,11 +81,11 @@ W. Ha, C. Singh, F. Lanusse, S. Upadhyayula, and B. Yu (2021). [Adaptive Wavelet
 
 M. Behr, Y. Wang, X. Li, B. Yu (2022). [Provable Boolean Interaction Recovery from Tree Ensemble obtained via Random Forests.](https://arxiv.org/abs/2102.11800) PNAS. ([theory for iRF](https://www.pnas.org/doi/10.1073/pnas.1711236115), PCS-related)
 
-N. Altieri, B. Park, M. Olson, J. DeNero, A. Odisho, B. Yu. (2021). Supervised line attention for tumor attribute classification from pathology reports: Higher performance with less data. Journal of Biomedical Informatics. 122 (2021) 103872. [arXiv version](https://arxiv.org/abs/2012.08113)
+N. Altieri, B. Park, M. Olson, J. DeNero, A. Odisho, B. Yu. (2021). [Supervised line attention for tumor attribute classification from pathology reports: Higher performance with less data.](https://arxiv.org/abs/2012.08113) Journal of Biomedical Informatics. 122 (2021) 103872.
 
 ## 2020
 
-M. Behr*, K. Kumbier*, A. Cordova-Palomera, M. Aguirre, E. Ashley, A. Butte, R. Arnaout, J. B. Brown, J. Preist*, B. Yu* (2020). [Learning epistatic polygenic phenotypes with Boolean interactions](https://www.biorxiv.org/content/10.1101/2020.11.24.396846v1) ([code](https://github.com/merlebehr/epiTree)) (PCS inference case study)
+M. Behr*, K. Kumbier*, A. Cordova-Palomera, M. Aguirre, E. Ashley, A. Butte, R. Arnaout, J. B. Brown, J. Preist*, B. Yu* (2020). [Learning epistatic polygenic phenotypes with Boolean interactions.](https://www.biorxiv.org/content/10.1101/2020.11.24.396846v1) ([code](https://github.com/merlebehr/epiTree)) (PCS inference case study)
 
 B. Norgeot*, G. Quer, B. K. Beaulieu-Jones, A. Torkamani, R. Dias, M. Gianfrancesco, R. Arnaout, I. S. Kohane, S. Saria, E. Topol, Z. Obermeyer, B. Yu & A. Butte* (2020). [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y), Nature Medicine, 26, 1320–1324.
 
@@ -95,7 +95,7 @@ B. Yu and R. Barter (2020). [Data science process: one culture.](https://www.tan
 
 R. Dwivedi, Y. Tan, B. Park, M. Wei, K. Horgan, D. Madigan, B. Yu (2020). [Stable discovery of interpretable subgroups via calibration in causal studies (staDISC).](https://onlinelibrary.wiley.com/doi/10.1111/insr.12427) International Statistical Review ([code](https://github.com/Yu-Group/stadisc)) (PCS case study for causal inference)
 
-X. Li, T. M. Tang, X. Wang, J. A. Kocher, B. Yu (2020). [A stability-driven protocol for drug response interpretable prediction (staDRIP)](https://arxiv.org/abs/2011.06593). NeurISP workshop on ML4H (Machine learning for Health) Extended Abstract.
+X. Li, T. M. Tang, X. Wang, J. A. Kocher, B. Yu (2020). [A stability-driven protocol for drug response interpretable prediction (staDRIP).](https://arxiv.org/abs/2011.06593) NeurISP workshop on ML4H (Machine learning for Health) Extended Abstract.
 
 A. Y. Odisho, B. Park, N. Altieri, J. DeNero, M. R Cooperberg, P. R .Carroll, B. Yu (2020). [Natural language processing systems for pathology parsing in limited data environments with uncertainty estimation.](https://academic.oup.com/jamiaopen/article/3/3/431/5922788) JAMIA Open.
 
@@ -103,15 +103,15 @@ L. Reiger, J. W. Murdoch, S. Singh, B. Yu (2020). [Interpretations are Useful: P
 
 C. Singh, W. Ha, F. Lanusse, V. Boehm, J. Liu, B. Yu (2020). [Transformation Importance with Applications to Cosmology](https://arxiv.org/pdf/2003.01926.pdf) ICLR Workshop paper. ([code](https://github.com/csinva/transformation-importance))
 
-N. Altieri, R. Barter, J. Duncan, R. Dwivedi, K. Kumbier, X. Li, R. Netzorg, B. Park, C. Singh*, Y. Tan, T.Tang, Y. Wang, C. Zhang, B. Yu*. (2020) [Curating a COVID-19 data repository and forecasting county-level death counts in the United States.](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/1) Harvard Data Science Review ([code](https://github.com/Yu-Group/covid19-severity-prediction)) [7-day prediction results](https://covidseverity.com/) [Short talk video](https://www.stat.berkeley.edu/~binyu/ps/papers2020/RDSS20-yu.mp4)
+N. Altieri, R. Barter, J. Duncan, R. Dwivedi, K. Kumbier, X. Li, R. Netzorg, B. Park, C. Singh*, Y. Tan, T.Tang, Y. Wang, C. Zhang, B. Yu*. (2020) [Curating a COVID-19 data repository and forecasting county-level death counts in the United States.](https://hdsr.mitpress.mit.edu/pub/p6isyf0g/release/1) Harvard Data Science Review ([code](https://github.com/Yu-Group/covid19-severity-prediction)) ([7-day prediction results](https://covidseverity.com/)) ([Short talk video](https://www.stat.berkeley.edu/~binyu/ps/papers2020/RDSS20-yu.mp4))
 
-B. Yu and K. Kumbier (2020) [Veridical data science](https://www.stat.berkeley.edu/~binyu/ps/papers2020/VDS20-YuKumbier.pdf) (PCS framework), PNAS. 117 (8), 3920-3929. [QnAs with Bin Yu.](https://www.stat.berkeley.edu/~binyu/ps/papers2020/VDS20-QnAsBinYu.pdf)
+B. Yu and K. Kumbier (2020) [Veridical data science](https://www.stat.berkeley.edu/~binyu/ps/papers2020/VDS20-YuKumbier.pdf) (PCS framework), PNAS. 117 (8), 3920-3929. ([QnAs with Bin Yu](https://www.stat.berkeley.edu/~binyu/ps/papers2020/VDS20-QnAsBinYu.pdf))
 
 R. Dwivedi, N. Ho, K. Khamaru, M. J. Wainwright, M. I. Jordan and B. Yu (2020) [Sharp Analysis of Expectation-Maximization for Weakly Identifiable Mixture Models](https://arxiv.org/abs/1902.00194) AISTATS.
 
 R. Dwivedi, N. Ho, K. Khamaru, M. J. Wainwright, M. I. Jordan and B. Yu (2020) [Singularity, Misspecification and the Convergence Rate of EM](https://arxiv.org/abs/1810.00828) Annals of Statistics.
 
-Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2020) [Fast Mixing of Metropolized Hamiltonian Monte Carlo: Benefits of Multi-Step Gradients,](https://www.jmlr.org/papers/volume21/19-441/19-441.pdf) JMLR, [arXiv](https://arxiv.org/abs/1905.12247)
+Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2020) [Fast Mixing of Metropolized Hamiltonian Monte Carlo: Benefits of Multi-Step Gradients.](https://www.jmlr.org/papers/volume21/19-441/19-441.pdf) JMLR, ([arXiv](https://arxiv.org/abs/1905.12247))
 
 ## 2019
 
@@ -121,37 +121,37 @@ D. Rothenhäusler and B. Yu (2019). [Incremental causal effects](https://arxiv.o
 
 ## 2018
 
-Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2018) [Fast MCMC Algorithms on Polytopes](http://jmlr.org/papers/v19/18-158.html). JMLR . http://jmlr.org/papers/v19/18-158.html
+Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2018) [Fast MCMC Algorithms on Polytopes.](http://jmlr.org/papers/v19/18-158.html) JMLR.
 
-Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2020) [Vaidya Walk: A Sampling Algorithm Based on Volumetric-Logarithmic Barrier](https://ieeexplore.ieee.org/abstract/document/8262876/) Allerton Conference 2017 https://ieeexplore.ieee.org/abstract/document/8262876/
+Y. Chen, R. Dwivedi, M. J. Wainwright and B. Yu (2020) [Vaidya Walk: A Sampling Algorithm Based on Volumetric-Logarithmic Barrier.](https://ieeexplore.ieee.org/abstract/document/8262876/) Allerton Conference 2017.
 
 W. J. Murdoch, C. Singh, K. Kumbier, R. Abbasi-Asl, and B. Yu* (2019) [Definitions, methods, and applications in interpretable machine learning.](https://www.stat.berkeley.edu/~binyu/ps/papers2020/iML19-Murdochetal.pdf) PNAS, 116 (44) 22071-22080.
 
 W. J. Murdoch, C. Sign, and B. Yu (2019). [Hierarchical interpretations for neural network predictions.](https://openreview.net/pdf?id=SkEqro0ctQ) ICLR. ([code](https://github.com/csinva/hierarchical-dnn-interpretations))
 
-Y. Wang, S. Wu and B. Yu (2020) [Unique Sharp Local Minimum in l1-minimization Complete Dictionary Learning.](https://jmlr.org/papers/volume21/19-169/19-169.pdf) JMLR. 21(63), pp. 1-52. Also at https://arxiv.org/abs/1902.08380
+Y. Wang, S. Wu and B. Yu (2020) [Unique Sharp Local Minimum in l1-minimization Complete Dictionary Learning.](https://jmlr.org/papers/volume21/19-169/19-169.pdf) JMLR. 21(63), pp. 1-52. ([arXiv](https://arxiv.org/abs/1902.08380))
 
-Y. Chen, R. Abbasi-Asl, A. Bloniarz, M. Oliver, B. Willmore, J. Gallant*, and B. Yu* (2018) [The DeepTune framework for modeling and characterizing neurons in visual cortex area V4](https://www.biorxiv.org/content/10.1101/465534v1) https://www.biorxiv.org/content/10.1101/465534v1
+Y. Chen, R. Abbasi-Asl, A. Bloniarz, M. Oliver, B. Willmore, J. Gallant*, and B. Yu* (2018) [The DeepTune framework for modeling and characterizing neurons in visual cortex area V4.](https://www.biorxiv.org/content/10.1101/465534v1)
 
-K. Kumbier, S. Sumanta, J. B. Brown, S. Celniker, and B. Yu* (2018) [Refining interaction search through signed iterative Random Forests.](https://arxiv.org/abs/1810.07287) [https://arxiv.org/abs/1810.0728](https://arxiv.org/abs/1810.0728) (an enhanced version of [iRF](https://www.pnas.org/doi/10.1073/pnas.1711236115), PCS related)
+K. Kumbier, S. Sumanta, J. B. Brown, S. Celniker, and B. Yu* (2018) [Refining interaction search through signed iterative Random Forests.](https://arxiv.org/abs/1810.07287) (an enhanced version of [iRF](https://www.pnas.org/doi/10.1073/pnas.1711236115), PCS related)
 
 Y. Chen C. Jin, and B. Yu (2018) [Stability and Convergence Trade-off of Iterative Optimization Algorithms.](https://arxiv.org/abs/1804.01619) https://arxiv.org/abs/1804.01619
 
-J. Murdoch, P. Liu, and B. Yu (2018) [Beyond word importance: contextual decomposition to extract interactions from LSTMs.](https://arxiv.org/abs/1801.05453) Proc. ICLR 2018. [https://arxiv.org/abs/1705.07356](https://arxiv.org/abs/1705.07356) ([code)](https://github.com/csinva/hierarchical-dnn-interpretations)
+J. Murdoch, P. Liu, and B. Yu (2018) [Beyond word importance: contextual decomposition to extract interactions from LSTMs.](https://arxiv.org/abs/1801.05453) Proc. ICLR 2018. ([code](https://github.com/csinva/hierarchical-dnn-interpretations))
 
-R. Diwivedi, Y. Chen, M. J. Wainwright, and B. Yu (2018) [Log-concave sampling: Metropolis-Hastings algorithms are fast!](https://arxiv.org/abs/1801.02309) https://arxiv.org/abs/1801.02309.
+R. Diwivedi, Y. Chen, M. J. Wainwright, and B. Yu (2018) [Log-concave sampling: Metropolis-Hastings algorithms are fast!](https://arxiv.org/abs/1801.02309)
 
 ## 2017
 
-Y. Chen, R. Dwivedi, M. J. Wainwright, and B. Yu (2017) [Fast MCMC sampling algorithms on polytopes](https://arxiv.org/abs/1710.08165) https://arxiv.org/abs/1710.08165.
+Y. Chen, R. Dwivedi, M. J. Wainwright, and B. Yu (2017) [Fast MCMC sampling algorithms on polytopes.](https://arxiv.org/abs/1710.08165)
 
 B. Yu and K. Kumbier (2018) [Artificial Intelligence and Statistics](https://www.stat.berkeley.edu/~binyu/ps/papers2018/AI+Stat18.pdf) Frontiers of Information Technology and Electronic Engineering. 19(1), 6-9.
 
-R. Abbasi-Asl and B. Yu (2017) [Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning](https://arxiv.org/abs/1705.07356) https://arxiv.org/abs/1705.07356
+R. Abbasi-Asl and B. Yu (2017) [Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning.](https://arxiv.org/abs/1705.07356)
 
-R. Abbasi-Asl and B. Yu (2017) [Interpreting Convolutional Neural Networks Through Compression.](https://arxiv.org/abs/1711.02329) NIPS 2017. Symposium on Interpretable Machine Learning. (also https://arxiv.org/abs/1711.02329)
+R. Abbasi-Asl and B. Yu (2017) [Interpreting Convolutional Neural Networks Through Compression.](https://arxiv.org/abs/1711.02329) NIPS 2017. Symposium on Interpretable Machine Learning.
 
-S. Kunzel, J. Sekhon, P. Bickel, and B. Yu* (2019) [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning,](https://www.pnas.org/content/116/10/4156) PNAS. 116 (10) 4156-4165.  https://arxiv.org/abs/1706.03461. [(code](https://github.com/soerenkuenzel/hte))
+S. Kunzel, J. Sekhon, P. Bickel, and B. Yu* (2019) [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning.](https://www.pnas.org/content/116/10/4156) PNAS. 116 (10) 4156-4165. ([arXiv](https://arxiv.org/abs/1706.03461)) ([code](https://github.com/soerenkuenzel/hte))
 
 S. Basu, K. Kumbier, J. B. Brown*, and B. Yu* (2018) [iterative Random Forests to discover predictive and stable high-order interactions](https://www.stat.berkeley.edu/~binyu/ps/papers2018/iRF+SI18.pdf) PNAS, 115 (8), 1943-1948. ([code](https://github.com/Yu-Group/iterative-Random-Forest)) (PCS related)
 

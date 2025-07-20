@@ -6,37 +6,38 @@ format:
     css: styles.css
 ---
 
-<div style="text-align:center">
 # Bin Yu
+
+
+<div style="flex: 0 0 200px;">
+<img src="images/binyu.jpg" alt="Bin Yu" style="width:200px; border-radius:8px;" />
 </div>
 
-<img src="images/binyu.jpg" alt="Bin Yu" style="float:right; margin:0 0 1em 2em; width:200px; border-radius:8px;" />
+- Chancellor's Distinguished Professor of Statistics
+- Statistics Department Chair, 2009 - 2012
+- Professor by courtesy, Electrical Engineering and Computer Sciences
 
-Chancellor's Distinguished Professor of Statistics and Electrical Engineering and Computer Sciences by courtesy
+**Address:** 367 Evans Hall #3860, Berkeley, CA 94720  
+**Phone:** 510-642-2781  
+**Fax:** 510-642-7892  
+**Email:** [binyu@berkeley.edu](mailto:binyu@berkeley.edu)
 
-Statistics Department Chair, 2009 - 2012
+## Recent Publications, Talks & News
 
-*mail: 367 Evans Hall #3860 • Berkeley, CA 94720 phone: 510-642-2781 • fax: 510-642-7892 • [binyu@berkeley.edu](mailto:binyu@berkeley.edu)*
-
-## Recent Publications & Talks
-
-- [New paper: PCS workflow for veridical data science in the age of AI (Z. Rewolinski and B. Yu, 2025)](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf)
-- [Veridical data science and medical foundation models](https://arxiv.org/abs/2409.10580) on arXiv by Alaa and Yu.
-- [VDS book review](https://hdsr.mitpress.mit.edu/pub/5322mn1e/release/3) by Yuval and Yoav Benjamini in Harvard Data Science Review (HDSR)-- "pedagogical excellence, diverse examples, and projects make Veridical Data Science a suitable textbook for students of all levels, in addition to being a valuable resource for data scientists in general" (review summary in HDSR Editor-in-Chief's note), June, 2024.
-- ["Veridical data science towards trustworthy AI"](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm) (Talk video of COPSS DAAL (formerly Fisher Award and Lecture), scroll down), Aug. JSM in Toronto, 2023.
-- [Veridical data science](https://www.pnas.org/content/117/8/3920) (PCS framework: [v-flow code](https://github.com/Yu-Group/veridical-flow) and [documentation template](https://yu-group.github.io/vdocs/PCSDoc-Template.html)), PNAS, 2020 ([QnAs with Bin Yu](https://www.pnas.org/content/117/8/3893))
-- My co-author [Rebecca Barter](https://rebeccabarter.com/) and I are thrilled to announce the [online release](http://vdsbook.com/) of our MIT Press book ["Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making"](https://mitpress.mit.edu/9780262049191/veridical-data-science/), an essential source for producing trustworthy data-driven results (Feb. 28, 2024).
+- *2025* [New paper: PCS workflow for veridical data science in the age of AI (Z. Rewolinski and B. Yu, 2025)](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf)
+- *2025* [Veridical Data Science in Biology on July 11, 2025 at UC Berkeley (Submission deadline July 4)](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179)
+- *2025* [Rome Workshop on Veridical Data Science, June 20, 2025](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html)
+- *2024* [Veridical data science and medical foundation models](https://arxiv.org/abs/2409.10580) on arXiv by Alaa and Yu.
+- *2024* [VDS book review](https://hdsr.mitpress.mit.edu/pub/5322mn1e/release/3) by Yuval and Yoav Benjamini in Harvard Data Science Review (HDSR)-- "pedagogical excellence, diverse examples, and projects make Veridical Data Science a suitable textbook for students of all levels, in addition to being a valuable resource for data scientists in general" (review summary in HDSR Editor-in-Chief's note), June, 2024.
+- *2024* [Inaugural Berkeley-Stanford Workshop on Veridical Data Science at UC Berkeley](https://na.eventscloud.com/website/69057/) (May 31, 2024) ([talk videos available](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSrg4jwLSioaV1bwmFnQ1Bx))
+- *2024* Our MIT Press book ["Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making"](https://mitpress.mit.edu/9780262049191/veridical-data-science/), has been released [online](http://vdsbook.com/).
+- *2023* ["Veridical data science towards trustworthy AI"](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm) (Talk video of COPSS DAAL (formerly Fisher Award and Lecture), scroll down), Aug. JSM in Toronto, 2023.
+- *2023* IMS Wald [Lecture I](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1029) and [Lecture II](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1031), and [COPSS Distinguished Award and Lecture (DAAL)](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1374) delivered at [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/) in Toronto, August 2023
+- *2022* [CDSS news: Statistics-Computer Science team reflects on tackling covid outbreaks](https://data.berkeley.edu/news/statistics-computer-sciences-team-reflects-tackling-covid-outbreaks), May, 2022
+- *2021* Honorary Doctorate, University of Lausanne (UNIL) (Faculty of Business and Economics), June 4, 2021 ([Interview of Bin Yu](https://www.youtube.com/watch?v=1JRGPGhcYzU) by journalist Nathalie Randin, with an introduction by Dean Jean-Philippe Bonardi of UNIL in French ([English translation](https://www.stat.berkeley.edu/~binyu/Intro-DeanBonardi-UNIL.pdf)))
+- *2020* [Veridical data science](https://www.pnas.org/content/117/8/3920) (PCS framework: [v-flow code](https://github.com/Yu-Group/veridical-flow) and [documentation template](https://yu-group.github.io/vdocs/PCSDoc-Template.html)), PNAS, 2020 ([QnAs with Bin Yu](https://www.pnas.org/content/117/8/3893))
+- *2020* [CDSS news on our PCS framework: "A better framework for more robust, trustworthy data science"](https://data.berkeley.edu/people/bin-yu), Oct. 2020
+- *2020* [UC Berkeley to lead $10M NSF/Simons Foundation program to investigate theoretical underpinnings of deep learning](https://data.berkeley.edu/news/uc-berkeley-lead-10m-nsfsimons-foundation-program-investigate-theoretical-underpinnings-deep), Aug. 25, 2020
+- *2020* UC Berkeley team part of the new NSF AI Center for Cybersecurity [ACTION](https://action.ucsb.edu/) led by UCSB.
 
 [View all papers →](papers.qmd)
-
-## Recent News
-
-- [Veridical Data Science in Biology on July 11, 2025 at UC Berkeley (Submission deadline July 4)](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179)
-- [Rome Workshop on Veridical Data Science, June 20, 2025](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html)
-- IMS Wald [Lecture I](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1029) and [Lecture II](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1031), and [COPSS Distinguished Award and Lecture (DAAL)](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1374) delivered at [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/) in Toronto, August 2023
-- [Inaugural Berkeley-Stanford Workshop on Veridical Data Science at UC Berkeley](https://na.eventscloud.com/website/69057/) (May 31, 2024) ([talk videos available](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSrg4jwLSioaV1bwmFnQ1Bx))
-- UC Berkeley team part of the new NSF AI Center for Cybersecurity [ACTION](https://action.ucsb.edu/) led by UCSB.
-- [CDSS news: Statistics-Computer Science team reflects on tackling covid outbreaks](https://data.berkeley.edu/news/statistics-computer-sciences-team-reflects-tackling-covid-outbreaks), May, 2022
-- Honorary Doctorate, University of Lausanne (UNIL) (Faculty of Business and Economics), June 4, 2021 ([Interview of Bin Yu](https://www.youtube.com/watch?v=1JRGPGhcYzU) by journalist Nathalie Randin, with an introduction by Dean Jean-Philippe Bonardi of UNIL in French ([English translation](https://www.stat.berkeley.edu/~binyu/Intro-DeanBonardi-UNIL.pdf)))
-- [CDSS news on our PCS framework: "A better framework for more robust, trustworthy data science"](https://data.berkeley.edu/people/bin-yu), Oct. 2020
-- [UC Berkeley to lead $10M NSF/Simons Foundation program to investigate theoretical underpinnings of deep learning](https://data.berkeley.edu/news/uc-berkeley-lead-10m-nsfsimons-foundation-program-investigate-theoretical-underpinnings-deep), Aug. 25, 2020
