@@ -1,0 +1,104 @@
+---
+title: "People"
+---
+
+## Current Members (Role, Program)
+
+- Abhineet Agarwal (Ph.D. Student, Statistics)
+- Soufiane Hayou (Post-doc)
+- Jakob Heiss (Post-doc)
+- Aliyah Hsu (Ph.D. Student, Statistics)
+- Yaxuan Huang (Ph.D. Student, Statistics)
+- Nathan Benjamin McNaughton (Undergraduate Student)
+- Robin Netzorg (Ph.D. Student, Statistics)
+- Anthony Ozerov (Ph.D. Student, Statistics)
+- Zachary Rewolinski (Ph.D. Student, Statistics)
+- Omer Ronen (Ph.D. Student, Statistics)
+- Jingfeng Wu (Post-doc)
+- Chengzhong Ye (Ph.D. Student, Statistics)
+- Zeyu Yun (Ph.D. Student, Statistics)
+- Austin Zane (Ph.D. Student, Statistics)
+
+## Former Ph.D. Students (Graduation Year)
+
+- Corine Elliot (2024) - Statistical Scientist, Berry Consultants
+- James Duncan (2024) - Climate ML Engineering, Allen Institute for AI (AI2)
+- Tiffany Tang (2023) - Clare Boothe Luce Assistant Professor, University of Notre Dame
+- Yeshwanth Cherapanamjeri (2023) - Postdoctoral Researcher, MIT
+- Dennis Shen (2023) - Assistant Professor, USC
+- Spencer Frei (2023) - Assistant Professor, UC Davis
+- Rebecca L. Barter (2022) - Research Assistant Professor, University of Utah
+- Luiz Chamon (2022) - Research Group Leader, University of Stuttgart
+- Angela Zhou (2022) - Assistant Professor, University of Southern California
+- Briton Park (2022) - Citadel Securities
+- Chandan Singh (2022) - Microsoft Research
+- Keyan Nasseri (2022) - Google
+- Wooseok Ha (2022) - AWS
+- Yan Shuo Tan (2022) - Assistant Profressor, Department of Statistics and Data Science, National University of Singapore
+- Xiao Li (2021) - Voleon
+- Raaz Dwivedi (2021) - Postdoctoral scholar, MIT / Harvard
+- Yu Wang (2020) - Two Sigma
+- Merle Behr (2020) - Scientific Expert, Bayer AG
+- Nicholas Altieri (2020) - Genentech
+- Yuansi Chen (2019) - Assistant Professor, Department of Statistical Sciences, Duke University
+- Karl Kumbier (2019) - Postdoctoral Researcher, UC San Francisco
+- Jamie Murdoch (2019) - Co-founder / President, clientelligent.ai
+- Soren Kunzel (2019) - Data Scientist, Citadel
+- Simon Walter (2019) - Data Scientist, Bridgewater
+- Sujayam Saha (2018) - Data Scientist, Google
+- Reza Abbasi-Asl (2018) - Scientist, Allen Institute for Brain Science
+- Christine Kuang (2017) - Data Scientist, Facebook
+- Hanzhong Liu (2016) - Assistant Professor, Department of Statistics, Tsinghua University
+- Sumanta Basu (2016) - Assistant Professor, Department of Statistics, Cornell University
+- Sivaraman Balakrishnan (2016) - Assistant Professor, Department of Statistics, Carnegie Mellon University
+- Adam Bloniarz (2016) - Data Scientist, Google
+- Siqi Wu (2016) - Data Scientist, Citadel
+- Hongwei Li (2015) - Senior Data Scientist, UBER
+- Antony Joseph (2014) - Staff Data Scientist, Walmart eCommerce
+- Taesup Moon (2013) - Research Staff Member, Samsung Advanced Institute of Technology
+- Yuval Benjamini (2013) - Stein fellow, Statistics department, Stanford University
+- Julien Mairal (2012) - Research Scientist, INRIA
+- Yueqing Wang (2012) - Research Scientist, Google
+- Hau-tieng Wu (2012) - Assistant Professor, Mathematics Department, University of Toronto
+- Garvesh Raskutti (2012) - Assistant Professor, Department of Statistics, Univ. Wisconsin-Madison
+- Luke W. Miratrix (2012) - Assistant Professor, Department of Statistics, Harvard University
+- Harry Kim (2011) - Product Marketing Manager, Google
+- Chinghway Lim (2011) - Assistant Professor, Department of Statistics and Applied Probability, National University of Singapore
+- Karl Rohe (2011) - Assistant Professor, Department, University of Wisconsin-Madison.
+- Kyle Jia (2010) - Assistant Professor, Peking University, China.
+- David Purdy (2009) - Data Scientist, Uber
+- Pradeep Ravikumar (2009) - Associate Professor, Department of Computer Sciences, University of Texas, Austin.
+- Vince Vu (2009) - Assistant Professor, Department of Statistics, The Ohio State University
+- Ethan Anderes (2008) - Assistant Professor, Department of Statistics, University of California, Davis
+- Guilherme Rocha (2008) - Assistant Professor, Department of Statistics, Indiana University, Bloomington
+- Peng Zhao (2006) - CEO of Citadel Securities, Citadel Investment Group in Chicago, IL.
+- Nicolai Meinshausen (2006) - Professor, Department of Statistics, ETH Zurich
+- Tao Shi (2005) - Quantitative Researcher, Citadel Investment Group in Chicago, IL.
+- Gang Liang (2004) - Quantitative Operations Associate, Bank of America
+- Rebecka JÃ¶rnsten (2000) - Associate Professor, Mathematical Statistics, Chalmers University of Technology
+- Grace Chang (2000) - Senior Manager of Product Development, Marketing Dept, MTN Irancell
+
+## Former Post-docs, Visitors, and Associates (Starting Year)
+
+- Arman Sabbaghi (2022)
+- Yanjun Qi (2020)
+- Ezequiel Smucler (2020)
+- Laura Reiger (2019)
+- Yanyan Lan (2018)
+- Yahong Han (2016)
+- Thibault Vatter
+- Guoqiang Cai
+- Trine Abrahamsen
+- Xiaoling Lu
+- Xiusheng Lu (2014)
+- Xiangyu Chang (2012)
+- Ling Hong (2012)
+- Toshiyasu Matsushima (2012)
+- Yanfeng Gu (2012) - Professor of Electronics Engineering, Harbin Institute of Technology
+- Hai Zhang (2012)
+- Rodolphe Jenatton (2010)
+- Kenichi Hayashi (2010)
+- Yangbo He (2010)
+- Fei Wu (2010)
+- Kei Kobayashi (2008)
+- Xing Wang (2007)

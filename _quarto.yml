@@ -10,22 +10,14 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: people.qmd
+        text: People
       - text: Papers
-        menu:
-          - href: papers.qmd
-            text: All Papers
-          - href: papers/deep-learning-and-machine-learning.qmd
-            text: Deep Learning and Machine Learning
-          - href: papers/veridical-data-science-pcs.qmd
-            text: Veridical Data Science (PCS)
-          - href: papers/interpretable-machine-learning.qmd
-            text: Interpretable Machine Learning
-          - href: papers/interdisciplinary-research-in-biomedicine.qmd
-            text: Interdisciplinary Research in Biomedicine
-          - href: papers/tree-based-methods.qmd
-            text: Tree-based Methods
+        href: papers.qmd
+      - text: Books
+        href: books.qmd
       - text: Code
-        href: https://www.stat.berkeley.edu/~yugroup/code.html
+        href: code.qmd
       - href: teaching.qmd
         text: Teaching
       # - text: Yu Group

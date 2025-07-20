@@ -12,21 +12,12 @@ format:
 
 <img src="images/binyu.jpg" alt="Bin Yu" style="float:right; margin:0 0 1em 2em; width:200px; border-radius:8px;" />
 
-CDSS Chancellor's Distinguished Professor
+Chancellor's Distinguished Professor of Statistics and Electrical Engineering and Computer Sciences by courtesy
 
-Departments of [Statistics](https://statistics.berkeley.edu/) and [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/), Center for Computational Biology
+Statistics Department Chair, 2009 - 2012
 
-[UC Berkeley](https://www.berkeley.edu/)
+*mail: 367 Evans Hall #3860 • Berkeley, CA 94720 phone: 510-642-2781 • fax: 510-642-7892 • [binyu@berkeley.edu](mailto:binyu@berkeley.edu)*
 
-[Chan-Zuckerberg Biohub](https://www.czbiohub.org/) Investigator Alumnus • [Weill Neurohub](https://www.weillneurohub.org/) Investigator
-
-*mail: 367 Evans Hall #3860 • Berkeley, CA 94720*
-
-*phone: 510-642-2781 • fax: 510-642-7892 • [binyu@berkeley.edu](mailto:binyu@berkeley.edu)*
-
-<div class="two-column-container">
-
-<div class="column">
 ## Recent Publications & Talks
 
 - [New paper: PCS workflow for veridical data science in the age of AI (Z. Rewolinski and B. Yu, 2025)](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf)
@@ -38,9 +29,6 @@ Departments of [Statistics](https://statistics.berkeley.edu/) and [Electrical En
 
 [View all papers →](papers.qmd)
 
-</div>
-
-<div class="column">
 ## Recent News
 
 - [Veridical Data Science in Biology on July 11, 2025 at UC Berkeley (Submission deadline July 4)](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179)
@@ -52,7 +40,3 @@ Departments of [Statistics](https://statistics.berkeley.edu/) and [Electrical En
 - Honorary Doctorate, University of Lausanne (UNIL) (Faculty of Business and Economics), June 4, 2021 ([Interview of Bin Yu](https://www.youtube.com/watch?v=1JRGPGhcYzU) by journalist Nathalie Randin, with an introduction by Dean Jean-Philippe Bonardi of UNIL in French ([English translation](https://www.stat.berkeley.edu/~binyu/Intro-DeanBonardi-UNIL.pdf)))
 - [CDSS news on our PCS framework: "A better framework for more robust, trustworthy data science"](https://data.berkeley.edu/people/bin-yu), Oct. 2020
 - [UC Berkeley to lead $10M NSF/Simons Foundation program to investigate theoretical underpinnings of deep learning](https://data.berkeley.edu/news/uc-berkeley-lead-10m-nsfsimons-foundation-program-investigate-theoretical-underpinnings-deep), Aug. 25, 2020
-
-</div>
-
-</div>

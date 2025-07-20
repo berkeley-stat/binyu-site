@@ -4,15 +4,23 @@ title: "Teaching"
 
 # Teaching
 
-## 2020 Fall
+## STAT 154 - Modern Statistical Prediction and Machine Learning
 
-- Statistical Models: Theory and Application  [[STAT 215A](https://classes.berkeley.edu/content/2019-Fall-STAT-215A-001-LEC-001)]
+**Course Description:** Theory and practice of statistical prediction. Contemporary methods as extensions of classical methods. Topics: optimal prediction rules, the curse of dimensionality, empirical risk, linear regression and classification, basis expansions, regularization, splines, the bootstrap, model selection, classification and regression trees, boosting, support vector machines. Computational efficiency versus predictive performance. Emphasis on experience with real data and assessing statistical assumptions. This course uses Python as its primary computing language; details are determined by the instructor.
 
-## 2019 Fall
+This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear regression, model assessment, model selection, regularization methods (PCR, PLSR, ridge and lasso); logistic regression and discriminant analysis; cross-validation and the bootstrap; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
-- Statistical Models: Theory and Application  [[STAT 215A](https://classes.berkeley.edu/content/2019-Fall-STAT-215A-001-LEC-001)]
+In this course, students explore the predictive modeling lifecycle, including question formulation, data preprocessing, exploratory data analysis and visualization, model building, model assessment/validation, model selection, and decision-making. The course focuses on quantitative critical thinking and key principles needed to carry out this cycle: 1) Foundational principles for building predictive models; 2) Intuitive explanations of many commonly used predictive modeling techniques for both classification and regression problems; 3) Principles and steps for validating a predictive model; and 4) write and use computer code to perform the necessary foundational work to build and validate predictive models.
 
-## 2019 Spring
+**Prerequisites:** Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra; Statistics 135, the combination of Data/Stat C140 and Data/Stat/Compsci C100, or equivalent; experience with some programming language. Recommended prerequisite: Mathematics 55 or equivalent exposure to counting arguments.
 
-- [Modern Statistical Prediction and Machine Learning](https://stat154.github.io/logistics/)  [[STAT 154](https://classes.berkeley.edu/content/2019-Spring-STAT-154-001-LEC-001)]
+**Course Website:** [[STAT 154](https://classes.berkeley.edu/content/2019-Spring-STAT-154-001-LEC-001)]
+
+## STAT 215A - Statistical Models: Theory and Application
+
+**Course Description:** Applied statistics and machine learning, focusing on answering scientific questions using data, the data science life cycle, critical thinking, reasoning, methodology, and trustworthy and reproducible computational practice. Hands-on experience in open-ended data labs, using programming languages such as R and Python. Emphasis on understanding and examining the assumptions behind standard statistical models and methods and the match between the assumptions and the scientific question. Exploratory data analysis. Model formulation, fitting, model testing and validation, interpretation, and communication of results. Methods include linear regression and generalizations, decision trees, random forests, simulation, and randomization methods.
+
+**Prerequisites:** Linear algebra, calculus, upper division probability and statistics, and familiarity with high-level programming languages. Statistics 133, 134, and 135 recommended.
+
+**Course Website:** [[STAT 215A](https://classes.berkeley.edu/content/2019-Fall-STAT-215A-001-LEC-001)]
 
