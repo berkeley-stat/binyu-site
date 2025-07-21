@@ -8,21 +8,21 @@ title: "People"
 
 - Abhineet Agarwal (Ph.D. Student, Statistics)
 - Soufiane Hayou (Post-doc)
+- David Deriso (Ph.D. student, CS)
 - Jakob Heiss (Post-doc)
-- Aliyah Hsu (Ph.D. Student, Statistics)
 - Yaxuan Huang (Ph.D. Student, Statistics)
-- Nathan Benjamin McNaughton (Undergraduate Student)
-- Robin Netzorg (Ph.D. Student, Statistics)
+- Nathan Benjamin McNaughton (MEng)
+- Robin Netzorg (Ph.D. Student, CS)
 - Anthony Ozerov (Ph.D. Student, Statistics)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
 - Omer Ronen (Ph.D. Student, Statistics)
 - Jingfeng Wu (Post-doc)
 - Chengzhong Ye (Ph.D. Student, Statistics)
-- Zeyu Yun (Ph.D. Student, Statistics)
+- Zeyu Yun (Ph.D. Student, CS)
 - Austin Zane (Ph.D. Student, Statistics)
 
 ## Former Ph.D. Students (Graduation Year)
-
+- Aliyah Hsu (2025) -  Software Engineer, Salesforce
 - Corine Elliot (2024) - Statistical Scientist, Berry Consultants
 - James Duncan (2024) - Climate ML Engineering, Allen Institute for AI (AI2)
 - Tiffany Tang (2023) - Clare Boothe Luce Assistant Professor, University of Notre Dame
