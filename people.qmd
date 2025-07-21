@@ -7,7 +7,6 @@ title: "People"
 ## Current Members (Role, Program)
 
 - Abhineet Agarwal (Ph.D. Student, Statistics)
-- Soufiane Hayou (Post-doc)
 - David Deriso (Ph.D. student, CS)
 - Jakob Heiss (Post-doc)
 - Yaxuan Huang (Ph.D. Student, Statistics)
@@ -21,7 +20,8 @@ title: "People"
 - Zeyu Yun (Ph.D. Student, CS)
 - Austin Zane (Ph.D. Student, Statistics)
 
-## Former Ph.D. Students (Graduation Year)
+## Former Ph.D. Students and Postdocs (Graduation Year)
+- Soufiane Hayou (2025) - Assistant Professor, Johns Hopkins University
 - Aliyah Hsu (2025) -  Software Engineer, Salesforce
 - Corine Elliot (2024) - Statistical Scientist, Berry Consultants
 - James Duncan (2024) - Climate ML Engineering, Allen Institute for AI (AI2)
@@ -34,53 +34,52 @@ title: "People"
 - Briton Park (2022) - Citadel Securities
 - Chandan Singh (2022) - Microsoft Research
 - Keyan Nasseri (2022) - Google
-- Wooseok Ha (2022) - AWS
+- Wooseok Ha (2022) - Assistant Professor, KAIST, Korea
 - Yan Shuo Tan (2022) - Assistant Profressor, Department of Statistics and Data Science, National University of Singapore
 - Xiao Li (2021) - Voleon
-- Raaz Dwivedi (2021) - Postdoctoral scholar, MIT / Harvard
+- Raaz Dwivedi (2021) - Assistant Professor, Cornell Tech
 - Yu Wang (2020) - Two Sigma
-- Merle Behr (2020) - Scientific Expert, Bayer AG
+- Merle Behr (2020) - Professor of Informatics, Regensburg University, Germany
 - Nicholas Altieri (2020) - Genentech
-- Yuansi Chen (2019) - Assistant Professor, Department of Statistical Sciences, Duke University
+- Yuansi Chen (2019) - Associate Professor, ETH, Zurich
 - Karl Kumbier (2019) - Postdoctoral Researcher, UC San Francisco
 - Jamie Murdoch (2019) - Co-founder / President, clientelligent.ai
 - Soren Kunzel (2019) - Data Scientist, Citadel
-- Simon Walter (2019) - Data Scientist, Bridgewater
+- Simon Walter (2019) - Data Scientist, Google
 - Sujayam Saha (2018) - Data Scientist, Google
-- Reza Abbasi-Asl (2018) - Scientist, Allen Institute for Brain Science
+- Reza Abbasi-Asl (2018) - Associate Professor of Neuroscience, UCSF
 - Christine Kuang (2017) - Data Scientist, Facebook
-- Hanzhong Liu (2016) - Assistant Professor, Department of Statistics, Tsinghua University
-- Sumanta Basu (2016) - Assistant Professor, Department of Statistics, Cornell University
-- Sivaraman Balakrishnan (2016) - Assistant Professor, Department of Statistics, Carnegie Mellon University
+- Hanzhong Liu (2016) - Associate Professor, Department of Statistics, Tsinghua University
+- Sumanta Basu (2016) - Associate Professor, Department of Statistics, Cornell University
+- Sivaraman Balakrishnan (2016) - Professor, Department of Statistics, Carnegie Mellon University
 - Adam Bloniarz (2016) - Data Scientist, Google
 - Siqi Wu (2016) - Data Scientist, Citadel
 - Hongwei Li (2015) - Senior Data Scientist, UBER
 - Antony Joseph (2014) - Staff Data Scientist, Walmart eCommerce
 - Taesup Moon (2013) - Research Staff Member, Samsung Advanced Institute of Technology
-- Yuval Benjamini (2013) - Stein fellow, Statistics department, Stanford University
-- Julien Mairal (2012) - Research Scientist, INRIA
+- Yuval Benjamini (2013) - Professor, Department of Statistics, Hebrew University
+- Julien Mairal (2012) - Senior Research Scientist, INRIA
 - Yueqing Wang (2012) - Research Scientist, Google
-- Hau-tieng Wu (2012) - Assistant Professor, Mathematics Department, University of Toronto
-- Garvesh Raskutti (2012) - Assistant Professor, Department of Statistics, Univ. Wisconsin-Madison
-- Luke W. Miratrix (2012) - Assistant Professor, Department of Statistics, Harvard University
+- Hau-tieng Wu (2012) - Professor, Mathematics Department, Courant Institute, NYU
+- Garvesh Raskutti (2012) - Associate Professor, Department of Statistics, Univ. Wisconsin-Madison
+- Luke W. Miratrix (2012) - Associate Professor, School of Education, Harvard University
 - Harry Kim (2011) - Product Marketing Manager, Google
 - Chinghway Lim (2011) - Assistant Professor, Department of Statistics and Applied Probability, National University of Singapore
-- Karl Rohe (2011) - Assistant Professor, Department, University of Wisconsin-Madison.
-- Kyle Jia (2010) - Assistant Professor, Peking University, China.
+- Karl Rohe (2011) - Professor, Department, University of Wisconsin-Madison.
+- Kyle Jia (2010) - Associate Professor, Peking University, China.
 - David Purdy (2009) - Data Scientist, Uber
-- Pradeep Ravikumar (2009) - Associate Professor, Department of Computer Sciences, University of Texas, Austin.
-- Vince Vu (2009) - Assistant Professor, Department of Statistics, The Ohio State University
-- Ethan Anderes (2008) - Assistant Professor, Department of Statistics, University of California, Davis
+- Pradeep Ravikumar (2009) - Professor, Department of Computer Sciences, University of Texas, Austin.
+- Vince Vu (2009) - Associate Professor, Department of Statistics, The Ohio State University
+- Ethan Anderes (2008) - Professor, Department of Statistics, University of California, Davis
 - Guilherme Rocha (2008) - Assistant Professor, Department of Statistics, Indiana University, Bloomington
 - Peng Zhao (2006) - CEO of Citadel Securities, Citadel Investment Group in Chicago, IL.
 - Nicolai Meinshausen (2006) - Professor, Department of Statistics, ETH Zurich
 - Tao Shi (2005) - Quantitative Researcher, Citadel Investment Group in Chicago, IL.
-- Gang Liang (2004) - Quantitative Operations Associate, Bank of America
-- Rebecka JÃ¶rnsten (2000) - Associate Professor, Mathematical Statistics, Chalmers University of Technology
+- Gang Liang (2004) - Quantitative Operations Associate, Wells Fargo
+- Rebecka JÃ¶rnsten (2000) - Professor, Biostatistics and Applied Statistics, Chalmers University of Technology, Sweden
 - Grace Chang (2000) - Senior Manager of Product Development, Marketing Dept, MTN Irancell
 
-## Former Post-docs, Visitors, and Associates (Starting Year)
-
+## Former Visitors, and Associates (Starting Year)
 - Yeshwanth Cherapanamjeri (2023)
 - Arman Sabbaghi (2022)
 - Yanjun Qi (2020)
