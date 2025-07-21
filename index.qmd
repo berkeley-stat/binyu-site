@@ -16,7 +16,8 @@ format:
 ::: {.column width="60%"}
 ## Professor Bin Yu
 
-CDSS Chancellor's Distinguished Professor of Statistics, Electrical Engineering and Computer Sciences, and Center for Computational Biology
+CDSS Chancellor's Distinguished Professor of Statistics
+Electrical Engineering and Computer Sciences, and Center for Computational Biology
 Statistics Department Chair, 2009 - 2012
 
 ## Contact
