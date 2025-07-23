@@ -16,16 +16,17 @@ format:
 ::: {.column width="60%"}
 ## Professor Bin Yu
 
-CDSS Chancellor's Distinguished Professor of Statistics
-Electrical Engineering and Computer Sciences, and Center for Computational Biology
-Statistics Department Chair, 2009 - 2012
+CDSS Chancellor's Distinguished Professor of Statistics  
+Electrical Engineering and Computer Sciences, and Center for Computational Biology  
+Statistics Department Chair, 2009 - 2012  
 
 ## Contact
 
 Address: 367 Evans Hall #3860, Berkeley, CA 94720  
 Phone: 510-642-2781  
 Fax: 510-642-7892  
-Email: [binyu@berkeley.edu](mailto:binyu@berkeley.edu)
+Email: [binyu@berkeley.edu](mailto:binyu@berkeley.edu)  
+
 :::
 
 ::::
