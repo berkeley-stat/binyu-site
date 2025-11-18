@@ -37,16 +37,17 @@ Professor Bin Yu leads the Yu Group at UC Berkeley, an interdisciplinary team in
 Statistics and EECS dedicated to advancing machine learning, artificial
 intelligence, and veridical data science. Her group develops efficient and
 interpretable ML/AI methods and theory—ranging from iterative random forests
-(iRF) and FIGS to LoRA+ for model adaptation and CD-T and SPEX for interpreting
-deep models. The Yu Group collaborates closely with domain experts in
-neuroscience, genomics, and precision medicine.
+(iRF) and tree-based FIGS to LoRA+ for fine-tuning deep learning and CD-T and
+SPEX for interpreting deep models. The Yu Group collaborates closely with domain
+experts in medical AI, genomics, and neuroscience.
 
 A member of both the National Academy of Sciences and the American Academy of
-Arts and Sciences, she has delivered major invited lectures, including the 2019
-Breiman Lecture at NeurIPS, the 2023 IMS Wald Lecture, and the 2023 COPSS DAAL
-Lecture (formerly Fisher Lecture). Her group’s PCS framework (predictability,
-computability, and stability) for veridical data science has become an
-influential guide for transparent, trustworthy data science and AI.
+Arts and Sciences, she has delivered major keynotes, including the 2019 Breiman
+Lecture at NeurIPS, 2023 IMS Wald Lectures and the COPSS DAAL Lecture (formerly
+Fisher Lecture). She and her team pioneered the PCS framework (predictability,
+computability, and stability) for veridical (truthful) data science (VDS),
+which has become an influential guide for transparent, trustworthy data science
+and AI.
 
 ## Recent Publications, Talks & News
 
