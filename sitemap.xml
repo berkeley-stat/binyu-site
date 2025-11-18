@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://binyu.stat.berkeley.edu/teaching.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <loc>https://binyu.stat.berkeley.edu/teaching/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
-    <loc>https://binyu.stat.berkeley.edu/books.html</loc>
-    <lastmod>2025-07-23T00:29:53.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/index.html</loc>
-    <lastmod>2025-07-23T00:29:53.747Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/tree-based-methods.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/deep-learning-and-machine-learning.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/about.html</loc>
-    <lastmod>2025-07-23T00:29:53.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <loc>https://binyu.stat.berkeley.edu/people/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/papers/veridical-data-science-pcs.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/interpretable-machine-learning.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <loc>https://binyu.stat.berkeley.edu/papers/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/papers/interdisciplinary-research-in-biomedicine.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
-    <loc>https://binyu.stat.berkeley.edu/software.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <loc>https://binyu.stat.berkeley.edu/software/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
   </url>
   <url>
-    <loc>https://binyu.stat.berkeley.edu/people.html</loc>
-    <lastmod>2025-07-23T00:29:53.748Z</lastmod>
+    <loc>https://binyu.stat.berkeley.edu/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/books/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/deep-learning-and-machine-learning.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/interpretable-machine-learning.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/tree-based-methods.html</loc>
+    <lastmod>2025-11-18T04:34:54.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/about/index.html</loc>
+    <lastmod>2025-11-18T04:34:54.521Z</lastmod>
   </url>
 </urlset>
