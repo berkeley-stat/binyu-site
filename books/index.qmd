@@ -8,7 +8,7 @@ title: Books
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
 
-<img src="images/veridical-data-science-cover.jpg" alt="Veridical Data Science Book Cover" style="float:left; margin:0 2em 1em 0; width:200px; border-radius:8px;" />
+<img src="../images/veridical-data-science-cover.jpg" alt="Veridical Data Science Book Cover" style="float:left; margin:0 2em 1em 0; width:200px; border-radius:8px;" />
 
 <div>
 
