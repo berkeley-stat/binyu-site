@@ -33,38 +33,16 @@ Email: [binyu@berkeley.edu](mailto:binyu@berkeley.edu)
 
 ## Welcome
 
-Professor Bin Yu is the head of the Yu Group at Berkeley, which consists of
-12-15 students and postdocs from Statistics and EECS. She was formally trained
-as a statistician, but her research interests and achievements extend beyond
-the realm of statistics. Together with her group,  Bin Yu has leveraged new
-computational developments to solve important scientific problems by combining
-novel and often interpretable statistical machine learning approaches with the
-domain expertise of my many collaborators in neuroscience, genomics and
-precision medicine. She also develops relevant theory to understand random
-forests and deep learning for insight into and guidance for practice.  Her work
-has been recongized by many awards. In particular, she was inducted to the
-National Academy of Sciences in 2014 and to the American Academy of Arts and
-Sciences in 2013. She delivered the IMS Wald Lectures and COPSS Distinguished
-Achievement and Award Lecture (DAAL, formerly Fisher Award and Lecture) in 2023.
+Professor Bin Yu leads the Yu Group at UC Berkeley, a team of researchers in
+Statistics and EECS focused on advancing statistical machine learning and
+responsible data science. Her group develops interpretable methods and theory
+for modern techniques such as random forests and deep learning, and applies them
+to scientific domains including neuroscience, genomics, and precision medicine.
 
-She and her team have developed the PCS framework for veridical data science (or
-responsible, reliable, and transparent data analysis and decision-making). PCS
-stands for predictability, computability and stability, and it unifies,
-streamlines, and expands on ideas and best practices of machine learning and
-statistics.
-
-In order to augment empirical evidence for decision-making, they are
-investigating statistical machine learning methods/algorithms (and associated
-statistical inference problems) such as dictionary learning, non-negative matrix
-factorization (NMF), EM and deep learning (CNNs and LSTMs), and heterogeneous
-effect estimation in randomized experiments (X-learner). Their recent algorithms
-include staNMF for unsupervised learning, iterative Random Forests (iRF) and
-signed iRF (s-iRF) for discovering predictive and stable high-order interactions
-in supervised learning, next generation tree-based methods (e.g. fast and
-interpretable greedy-tree sums (FIGS) and hierarchical shrinked (HS) trees, and
-RF+), contextual decomposition (CD), aggregated contextual decomposition (ACD),
-and adaptive wavelet distillation (AWD) for interpretation of Deep Neural
-Networks (DNNs). 
+She is a member of the National Academy of Sciences and the American Academy of
+Arts and Sciences, and delivered the 2023 IMS Wald Lectures and COPSS DAAL
+Lecture. Her team created the PCS framework (predictability, computability, and
+stability) to guide transparent and reliable data analysis.
 
 ## Recent Publications, Talks & News
 
@@ -81,4 +59,4 @@ Networks (DNNs).
 - <span class="year-entry">2023</span>[Diagnosing transformers: illuminating feature space for clinical decision-making](https://arxiv.org/abs/2305.17588) - Interpretability methods for medical transformer applications
 - <span class="year-entry">2023</span>[COPSS Distinguished Award and Lecture](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm), JSM Toronto - Recognition for contributions to statistical science and AI
 
-[View all papers →](papers.qmd)
+[View all papers →](papers/index.qmd)

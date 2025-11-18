@@ -6,11 +6,11 @@ title: "People"
 
 ## Current Members (Role, Program)
 
-- Abhineet Agarwal (Ph.D. Student, Statistics)
-- David Deriso (Ph.D. student, CS)
+- David Deriso (Ph.D. Student, CS)
 - Jakob Heiss (Post-doc)
+- Hao Huang (MEng, EECS)
 - Yaxuan Huang (Ph.D. Student, Statistics)
-- Nathan Benjamin McNaughton (MEng)
+- Nathan Benjamin McNaughton (MEng, EECS)
 - Robin Netzorg (Ph.D. Student, CS)
 - Anthony Ozerov (Ph.D. Student, Statistics)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
@@ -21,6 +21,7 @@ title: "People"
 - Austin Zane (Ph.D. Student, Statistics)
 
 ## Former Ph.D. Students and Postdocs (Graduation Year)
+- Abhineet Agarwal (2025) - Technical Staff, Traversal
 - Soufiane Hayou (2025) - Assistant Professor, Johns Hopkins University
 - Aliyah Hsu (2025) -  Software Engineer, Salesforce
 - Corine Elliot (2024) - Statistical Scientist, Berry Consultants
