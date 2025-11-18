@@ -3,25 +3,25 @@ project:
 
 website:
   site-url: https://binyu.stat.berkeley.edu
-  title: "Professor Bin Yu's Research Group"
+  title: "Bin Yu"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: about/index.qmd
         text: About
-      - href: people.qmd
+      - href: people/index.qmd
         text: People
       - text: Papers
-        href: papers.qmd
+        href: papers/index.qmd
       - text: Books
-        href: books.qmd
+        href: books/index.qmd
       - text: Software
-        href: software.qmd
-      - href: teaching.qmd
+        href: software/index.qmd
+      - href: teaching/index.qmd
         text: Teaching
-      # - text: Yu Group
-      #   href: https://www.stat.berkeley.edu/~yugroup/
+      - text: Yu Group
+        href: https://www.stat.berkeley.edu/~yugroup/
   page-footer:
     center: "&copy; 2025 Bin Yu"
 
