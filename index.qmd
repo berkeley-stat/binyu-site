@@ -33,16 +33,20 @@ Email: [binyu@berkeley.edu](mailto:binyu@berkeley.edu)
 
 ## Welcome
 
-Professor Bin Yu leads the Yu Group at UC Berkeley, a team of researchers in
-Statistics and EECS focused on advancing statistical machine learning and
-responsible data science. Her group develops interpretable methods and theory
-for modern techniques such as random forests and deep learning, and applies them
-to scientific domains including neuroscience, genomics, and precision medicine.
+Professor Bin Yu leads the Yu Group at UC Berkeley, an interdisciplinary team in
+Statistics and EECS dedicated to advancing machine learning, artificial
+intelligence, and veridical data science. Her group develops efficient and
+interpretable ML/AI methods and theory—ranging from iterative random forests
+(iRF) and FIGS to LoRA+ for model adaptation and CD-T and SPEX for interpreting
+deep models. The Yu Group collaborates closely with domain experts in
+neuroscience, genomics, and precision medicine.
 
-She is a member of the National Academy of Sciences and the American Academy of
-Arts and Sciences, and delivered the 2023 IMS Wald Lectures and COPSS DAAL
-Lecture. Her team created the PCS framework (predictability, computability, and
-stability) to guide transparent and reliable data analysis.
+A member of both the National Academy of Sciences and the American Academy of
+Arts and Sciences, she has delivered major invited lectures, including the 2019
+Breiman Lecture at NeurIPS, 2023 IMS Wald Lecture, and the COPSS DAAL Lecture
+(formerly Fisher Lecture). Her group’s PCS framework (predictability,
+computability, and stability) for veridical data science has become an
+influential guide for transparent, trustworthy data science and AI.
 
 ## Recent Publications, Talks & News
 
@@ -59,4 +63,4 @@ stability) to guide transparent and reliable data analysis.
 - <span class="year-entry">2023</span>[Diagnosing transformers: illuminating feature space for clinical decision-making](https://arxiv.org/abs/2305.17588) - Interpretability methods for medical transformer applications
 - <span class="year-entry">2023</span>[COPSS Distinguished Award and Lecture](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm), JSM Toronto - Recognition for contributions to statistical science and AI
 
-[View all papers →](papers/index.qmd)
+[View all papers →](https://scholar.google.com/citations?user=xT19Jc0AAAAJ&hl=en)
