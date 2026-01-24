@@ -51,6 +51,7 @@ and AI.
 
 ## Recent Publications, Talks & News
 
+- <span class="year-entry">2025</span>[ICSDS25 Plenary Talk Slides](slides/ICSDS25-BinYu.pdf) - Veridical Data Science towards Trustworthy AI
 - <span class="year-entry">2025</span>[PCS workflow for veridical data science in the age of AI](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf) - Framework for responsible AI development and deployment
 - <span class="year-entry">2025</span>[Veridical Data Science in Biology workshop](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179), UC Berkeley, July 11 - Applying trustworthy data science to biological research
 - <span class="year-entry">2025</span>[Rome Workshop on Veridical Data Science](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html), June 20 - International workshop on responsible data analysis
