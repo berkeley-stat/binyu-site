@@ -106,3 +106,5 @@ title: "People"
 - Fei Wu (2010)
 - Kei Kobayashi (2008)
 - Xing Wang (2007)
+
+[**Previous Yu Group Info**](https://www.stat.berkeley.edu/~yugroup/)

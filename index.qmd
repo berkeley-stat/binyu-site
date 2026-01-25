@@ -52,18 +52,18 @@ and AI.
 ## Recent Publications, Talks & News
 
 - <span class="year-entry">2025</span>[ICSDS25 Plenary Talk Slides](slides/ICSDS25-BinYu.pdf) - Veridical Data Science towards Trustworthy AI
-- <span class="year-entry">2025</span>[PCS workflow for veridical data science in the age of AI](https://www.stat.berkeley.edu/~yugroup/pubs/pcs_workflow-6.pdf) - Framework for responsible AI development and deployment
+- <span class="year-entry">2025</span>[PCS workflow for veridical data science in the age of AI](https://arxiv.org/abs/2508.00835) - Framework for responsible AI development and deployment
+- <span class="year-entry">2025</span>[ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs](https://arxiv.org/abs/2505.17495) - LLM interaction importances
 - <span class="year-entry">2025</span>[Veridical Data Science in Biology workshop](https://www.eventbrite.com/e/veridical-data-science-for-biology-2025-tickets-1384456339179), UC Berkeley, July 11 - Applying trustworthy data science to biological research
 - <span class="year-entry">2025</span>[Rome Workshop on Veridical Data Science](https://www.integreat.no/events/public-events/workshops/veridical-data-science.html), June 20 - International workshop on responsible data analysis
 - <span class="year-entry">2024</span>[Talk slides](slides/VDSBook-BinYu.pdf) on the [2024 MIT Press book "Veridical Data Science"](https://mitpress.mit.edu/9780262049191/veridical-data-science/) by Yu and Barter (free version [here](https://vdsbook.com/)).
 - <span class="year-entry">2024</span>[Veridical data science and medical foundation models](https://arxiv.org/abs/2409.10580) - Guidelines for trustworthy medical AI systems
-- <span class="year-entry">2024</span>[Mechanistic Interpretation through Contextual Decomposition in Transformers](https://arxiv.org/pdf/2407.00886) - Method for understanding transformer decision-making processes
+- <span class="year-entry">2024</span>[Mechanistic Interpretation through Contextual Decomposition in Transformers (CD-T)](https://arxiv.org/pdf/2407.00886) - Method for understanding transformer decision-making processes
 - <span class="year-entry">2024</span>[LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354) - Improved technique for fine-tuning large language models
 - <span class="year-entry">2024</span>[VDS book review](https://hdsr.mitpress.mit.edu/pub/5322mn1e/release/3) in Harvard Data Science Review - Praise for pedagogical approach to responsible data science
 - <span class="year-entry">2024</span>[Berkeley-Stanford Workshop on Veridical Data Science](https://na.eventscloud.com/website/69057/) ([videos](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSrg4jwLSioaV1bwmFnQ1Bx)) - Inaugural academic collaboration on trustworthy AI
 - <span class="year-entry">2024</span>[Veridical Data Science book](https://mitpress.mit.edu/9780262049191/veridical-data-science/) released ([online](http://vdsbook.com/)) - Comprehensive guide to responsible data analysis and decision making
-- <span class="year-entry">2023</span>[Explaining black box text modules in natural language with language models](https://arxiv.org/abs/2305.09863) - Natural language explanations for neural network text processing
-- <span class="year-entry">2023</span>[Diagnosing transformers: illuminating feature space for clinical decision-making](https://arxiv.org/abs/2305.17588) - Interpretability methods for medical transformer applications
 - <span class="year-entry">2023</span>[COPSS Distinguished Award and Lecture](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm), JSM Toronto - Recognition for contributions to statistical science and AI
+- <span class="year-entry">2020</span>[Veridical data science paper by Yu and Kumbier](https://www.pnas.org/doi/10.1073/pnas.1901326117), based on data science principles of Predictability-Computability-Stability (PCS)
 
 [View all papers →](https://scholar.google.com/citations?user=xT19Jc0AAAAJ&hl=en)

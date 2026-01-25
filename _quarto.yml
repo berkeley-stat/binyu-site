@@ -20,8 +20,6 @@ website:
         href: software/index.qmd
       - href: teaching/index.qmd
         text: Teaching
-      - text: Yu Group
-        href: https://www.stat.berkeley.edu/~yugroup/
   page-footer:
     center: "&copy; 2025 Bin Yu"
 
