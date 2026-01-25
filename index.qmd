@@ -64,6 +64,6 @@ and AI.
 - <span class="year-entry">2024</span>[Berkeley-Stanford Workshop on Veridical Data Science](https://na.eventscloud.com/website/69057/) ([videos](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSrg4jwLSioaV1bwmFnQ1Bx)) - Inaugural academic collaboration on trustworthy AI
 - <span class="year-entry">2024</span>[Veridical Data Science book](https://mitpress.mit.edu/9780262049191/veridical-data-science/) released ([online](http://vdsbook.com/)) - Comprehensive guide to responsible data analysis and decision making
 - <span class="year-entry">2023</span>[COPSS Distinguished Award and Lecture](https://ww2.amstat.org/meetings/jsm/2023/webcasts/index.cfm), JSM Toronto - Recognition for contributions to statistical science and AI
-- <span class="year-entry">2020</span>[Veridical data science paper by Yu and Kumbier](https://www.pnas.org/doi/10.1073/pnas.1901326117), based on data science principles of Predictability-Computability-Stability (PCS)
+- <span class="year-entry">2020</span>[Veridical data science (VDS) paper by Yu and Kumbier](https://www.pnas.org/doi/10.1073/pnas.1901326117), based on data science principles of Predictability-Computability-Stability (PCS)
 
 [View all papers →](https://scholar.google.com/citations?user=xT19Jc0AAAAJ&hl=en)
