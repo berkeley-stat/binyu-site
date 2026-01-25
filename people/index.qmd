@@ -4,6 +4,8 @@ title: "People"
 
 # People
 
+<img src="../images/yu_group_photo.jpeg" alt="" width="800px">
+
 ## Current Members (Role, Program)
 
 - David Deriso (Ph.D. Student, CS)
@@ -14,7 +16,6 @@ title: "People"
 - Robin Netzorg (Ph.D. Student, CS)
 - Anthony Ozerov (Ph.D. Student, Statistics)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
-- Omer Ronen (Ph.D. Student, Statistics)
 - Jingfeng Wu (Post-doc)
 - Chengzhong Ye (Ph.D. Student, Statistics)
 - Zeyu Yun (Ph.D. Student, CS)
@@ -24,6 +25,7 @@ title: "People"
 - Abhineet Agarwal (2025) - Technical Staff, Traversal
 - Soufiane Hayou (2025) - Assistant Professor, Johns Hopkins University
 - Aliyah Hsu (2025) -  Software Engineer, Salesforce
+- Omer Ronen (2025) - Research Scientist, AIMATX
 - Corine Elliot (2024) - Statistical Scientist, Berry Consultants
 - James Duncan (2024) - Climate ML Engineering, Allen Institute for AI (AI2)
 - Tiffany Tang (2023) - Clare Boothe Luce Assistant Professor, University of Notre Dame
