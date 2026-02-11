@@ -51,6 +51,7 @@ and AI.
 
 ## Recent Publications, Talks & News
 
+- <span class="year-entry">2026</span>[Green Shielding: A User-Centric Approach Towards Trustworthy AI](files/Green_Shielding_arXiv.pdf) - LLM-assisted medical diagnosis as a case study
 - <span class="year-entry">2025</span>[ICSDS25 Plenary Talk Slides](slides/ICSDS25-BinYu.pdf) - Veridical Data Science towards Trustworthy AI
 - <span class="year-entry">2025</span>[PCS workflow for veridical data science in the age of AI](https://arxiv.org/abs/2508.00835) - Framework for responsible AI development and deployment
 - <span class="year-entry">2025</span>[ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs](https://arxiv.org/abs/2505.17495) - LLM interaction importances
