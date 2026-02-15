@@ -51,8 +51,7 @@ and AI.
 
 ## Recent Publications, Talks & News
 
-- <span class="year-entry">2026</span>[Paris Workshop on Veridical Data Science](https://www.cantab.net/users/j.randon-furling/VDS.html) - A VDS workshop in Paris on May 28-29, 2026 is accepting
-registrations and talk submissions.
+- <span class="year-entry">2026</span>[Paris Workshop on Veridical Data Science](https://www.cantab.net/users/j.randon-furling/VDS.html) - The workshop (May 28-29, 2026) is accepting registrations and talk submissions.
 - <span class="year-entry">2026</span>[Green Shielding: A User-Centric Approach Towards Trustworthy AI](files/Green_Shielding_arXiv_Feb11.pdf) - Empirical framework for deployment-aware LLM evaluation illustrated in medical diagnosis
 - <span class="year-entry">2025</span>[ICSDS25 Plenary Talk Slides](slides/ICSDS25-BinYu.pdf) - Veridical Data Science towards Trustworthy AI
 - <span class="year-entry">2025</span>[PCS workflow for veridical data science in the age of AI](https://arxiv.org/abs/2508.00835) - Framework for responsible AI development and deployment
