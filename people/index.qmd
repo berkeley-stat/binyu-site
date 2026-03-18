@@ -20,6 +20,7 @@ title: "People"
 - Chengzhong Ye (Ph.D. Student, Statistics)
 - Zeyu Yun (Ph.D. Student, CS)
 - Austin Zane (Ph.D. Student, Statistics)
+- Alex Zhao (Ph.D. Student, Computational Biology)
 
 ## Former Ph.D. Students and Postdocs (Graduation Year)
 - Abhineet Agarwal (2025) - Technical Staff, Traversal
