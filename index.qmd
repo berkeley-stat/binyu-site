@@ -51,6 +51,7 @@ and AI.
 
 ## Recent Publications, Talks & News
 
+- <span class="year-entry">2026</span>[Le Cam Lecture Slides](slides/LeCamLecture26-BinYu.pdf) - Tackling a Hidden Universe of Uncertainty through Veridical Data Science; from Journées de Statistique (JDS) of the French Statistical Society in Clermont-Ferrand, France.
 - <span class="year-entry">2026</span>[Paris Workshop on Veridical Data Science](https://www.cantab.net/users/j.randon-furling/VAI.html) - The workshop (May 28-29, 2026) is accepting registrations and talk submissions.
 - <span class="year-entry">2026</span>[Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/pdf/2604.24700) - Empirical framework for deployment-aware LLM evaluation illustrated in medical diagnosis
 - <span class="year-entry">2025</span>[ICSDS25 Plenary Talk Slides](slides/ICSDS25-BinYu.pdf) - Veridical Data Science towards Trustworthy AI
