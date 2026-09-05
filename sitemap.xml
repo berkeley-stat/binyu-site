@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://binyu.stat.berkeley.edu/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/software/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.795Z</lastmod>
-  </url>
-  <url>
     <loc>https://binyu.stat.berkeley.edu/people/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/interdisciplinary-research-in-biomedicine.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/deep-learning-and-machine-learning.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/papers/tree-based-methods.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/teaching/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.795Z</lastmod>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/papers/interpretable-machine-learning.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/papers/veridical-data-science-pcs.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/papers/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binyu.stat.berkeley.edu/about/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.517Z</lastmod>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
   </url>
   <url>
     <loc>https://binyu.stat.berkeley.edu/books/index.html</loc>
-    <lastmod>2026-06-25T02:06:50.517Z</lastmod>
+    <lastmod>2026-09-05T22:43:04.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/about/index.html</loc>
+    <lastmod>2026-09-05T22:43:04.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/index.html</loc>
+    <lastmod>2026-09-05T22:43:04.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/software/index.html</loc>
+    <lastmod>2026-09-05T22:43:04.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/interdisciplinary-research-in-biomedicine.html</loc>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/deep-learning-and-machine-learning.html</loc>
+    <lastmod>2026-09-05T22:43:04.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/papers/veridical-data-science-pcs.html</loc>
+    <lastmod>2026-09-05T22:43:04.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binyu.stat.berkeley.edu/teaching/index.html</loc>
+    <lastmod>2026-09-05T22:43:04.935Z</lastmod>
   </url>
 </urlset>
