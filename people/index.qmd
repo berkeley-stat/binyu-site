@@ -8,21 +8,27 @@ title: "People"
 
 ## Current Members (Role, Program)
 
-- Jakob Heiss (Post-doc)
-- Hao Huang (MEng, EECS)
-- Yaxuan Huang (Ph.D. Student, Statistics)
-- Nathan Benjamin McNaughton (MEng, EECS)
-- Robin Netzorg (Ph.D. Student, CS)
+- Gabriel Clara (Postdoc)
+- Hao Huang (Ph.D. Student, EECS)
+- Louis McConnell (Ph.D. Student, EECS)
+- Curtis McDonald (Postdoc)
+- Robin Netzorg (Ph.D. Student, EECS)
 - Anthony Ozerov (Ph.D. Student, Statistics)
+- Maya Ramchandran (Postdoc)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
-- Jingfeng Wu (Post-doc)
-- Chengzhong Ye (Ph.D. Student, Statistics)
-- Zeyu Yun (Ph.D. Student, CS)
-- Austin Zane (Ph.D. Student, Statistics)
+- Bobby Shi (Postdoc)
+- Katherine Tsai (Postdoc)
+- Nuri Mert Vural (Postdoc)
+- Zeyu Yun (Ph.D. Student, EECS)
 - Alex Zhao (Ph.D. Student, Computational Biology)
 
 ## Former Ph.D. Students and Postdocs (Graduation Year)
 - David Deriso (2026) - Founder, Stealth
+- Jakob Heiss (2026) - Tenure-Track Professor, University of Vienna
+- Yaxuan Huang (2026) - Quantitative Researcher, Cubist
+- Jingfeng Wu (2026) - Assistant Professor, UC Berkeley
+- Chengzhong Ye (2026) - Postdoc, UC Berkeley and UCSF
+- Austin Zane (2026) - Data Scientist, Google
 - Abhineet Agarwal (2025) - Technical Staff, Traversal
 - Soufiane Hayou (2025) - Assistant Professor, Johns Hopkins University
 - Aliyah Hsu (2025) -  Software Engineer, Salesforce
@@ -60,7 +66,7 @@ title: "People"
 - Siqi Wu (2016) - Data Scientist, Citadel
 - Hongwei Li (2015) - Senior Data Scientist, UBER
 - Antony Joseph (2014) - Staff Data Scientist, Walmart eCommerce
-- Taesup Moon (2013) - Research Staff Member, Samsung Advanced Institute of Technology
+- Taesup Moon (2013) - Professor, Seoul National University
 - Yuval Benjamini (2013) - Professor, Department of Statistics, Hebrew University
 - Julien Mairal (2012) - Senior Research Scientist, INRIA
 - Yueqing Wang (2012) - Research Scientist, Google
@@ -80,7 +86,7 @@ title: "People"
 - Nicolai Meinshausen (2006) - Professor, Department of Statistics, ETH Zurich
 - Tao Shi (2005) - Quantitative Researcher, Citadel Investment Group in Chicago, IL.
 - Gang Liang (2004) - Quantitative Operations Associate, Wells Fargo
-- Rebecka JÃ¶rnsten (2000) - Professor, Biostatistics and Applied Statistics, Chalmers University of Technology, Sweden
+- Rebecka Jörnsten (2000) - Professor, Biostatistics and Applied Statistics, Chalmers University of Technology, Sweden
 - Grace Chang (2000) - Senior Manager of Product Development, Marketing Dept, MTN Irancell
 
 ## Former Visitors, and Associates (Starting Year)
