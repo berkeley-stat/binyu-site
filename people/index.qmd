@@ -9,6 +9,7 @@ title: "People"
 ## Current Members (Role, Program)
 
 - Gabriel Clara (Postdoc)
+- Avrajit Ghosh (Postdoc)
 - Hao Huang (Ph.D. Student, EECS)
 - Louis McConnell (Ph.D. Student, EECS)
 - Curtis McDonald (Postdoc)
