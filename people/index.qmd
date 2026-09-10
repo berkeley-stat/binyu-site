@@ -12,6 +12,7 @@ title: "People"
 - Avrajit Ghosh (Postdoc)
 - Jakob Heiss (Postdoc)
 - Hao Huang (Ph.D. Student, EECS)
+- Aaron Li (Ph.D. Student, EECS)
 - Louis McConnell (Ph.D. Student, EECS)
 - Curtis McDonald (Postdoc)
 - Robin Netzorg (Ph.D. Student, EECS)
