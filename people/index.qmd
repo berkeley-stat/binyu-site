@@ -10,6 +10,7 @@ title: "People"
 
 - Gabriel Clara (Postdoc)
 - Avrajit Ghosh (Postdoc)
+- Jakob Heiss (Postdoc)
 - Hao Huang (Ph.D. Student, EECS)
 - Louis McConnell (Ph.D. Student, EECS)
 - Curtis McDonald (Postdoc)
@@ -20,12 +21,12 @@ title: "People"
 - Bobby Shi (Postdoc)
 - Katherine Tsai (Postdoc)
 - Nuri Mert Vural (Postdoc)
+- Anqi Wang (Ph.D. Student, Statistics)
 - Zeyu Yun (Ph.D. Student, EECS)
 - Alex Zhao (Ph.D. Student, Computational Biology)
 
 ## Former Ph.D. Students and Postdocs (Graduation Year)
 - David Deriso (2026) - Founder, Stealth
-- Jakob Heiss (2026) - Tenure-Track Professor, University of Vienna
 - Yaxuan Huang (2026) - Quantitative Researcher, Cubist
 - Jingfeng Wu (2026) - Assistant Professor, UC Berkeley
 - Chengzhong Ye (2026) - Postdoc, UC Berkeley and UCSF
