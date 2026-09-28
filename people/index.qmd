@@ -4,18 +4,16 @@ title: "People"
 
 # People
 
-<img src="../images/yu_group_photo.jpeg" alt="" width="800px">
+<img src="../images/yu_group_sept_23_2026.jpg" alt="" width="800px">
 
 ## Current Members (Role, Program)
 
 - Gabriel Clara (Postdoc)
 - Avrajit Ghosh (Postdoc)
-- Jakob Heiss (Postdoc)
 - Hao Huang (Ph.D. Student, EECS)
 - Aaron Li (Ph.D. Student, EECS)
 - Louis McConnell (Ph.D. Student, EECS)
 - Curtis McDonald (Postdoc)
-- Robin Netzorg (Ph.D. Student, EECS)
 - Anthony Ozerov (Ph.D. Student, Statistics)
 - Maya Ramchandran (Postdoc)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
@@ -27,6 +25,7 @@ title: "People"
 - Alex Zhao (Ph.D. Student, Computational Biology)
 
 ## Former Ph.D. Students and Postdocs (Graduation Year)
+- Jakob Heiss (2026) - Assistant Professor, University of Vienna
 - David Deriso (2026) - Founder, Stealth
 - Yaxuan Huang (2026) - Quantitative Researcher, Cubist
 - Jingfeng Wu (2026) - Assistant Professor, UC Berkeley
