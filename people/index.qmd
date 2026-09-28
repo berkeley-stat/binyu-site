@@ -17,6 +17,7 @@ title: "People"
 - Anthony Ozerov (Ph.D. Student, Statistics)
 - Maya Ramchandran (Postdoc)
 - Zachary Rewolinski (Ph.D. Student, Statistics)
+- Nicolas Sanchez (Ph.D. Student, Statistics)
 - Bobby Shi (Postdoc)
 - Katherine Tsai (Postdoc)
 - Nuri Mert Vural (Postdoc)
