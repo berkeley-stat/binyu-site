@@ -52,8 +52,7 @@ and AI.
 
 ## Recent Publications, Talks & News
 
-- <span class="year-entry">October 2026</span>[Not All Interpretation Methods Are Created Equal: Tiered
-Evaluation of AI Interpretability](files/TRUST-SanchezYu) - TRUST framework for assessing
+- <span class="year-entry">October 2026</span>[Not All Interpretation Methods Are Created Equal: Tiered Evaluation of AI Interpretability](files/TRUST-SanchezYu.pdf) - TRUST framework for assessing
 the trustworthiness of interpretation methods throughout the AI lifecycle.
 - <span class="year-entry">2026</span>[Le Cam Lecture Slides](slides/LeCamLecture26Posted-BinYu.pdf) - Tackling a Hidden Universe of Uncertainty through Veridical Data Science; from Journées de Statistique (JDS) of the French Statistical Society in Clermont-Ferrand, France.
 - <span class="year-entry">2026</span>[Paris Workshop on Veridical Data Science](https://www.cantab.net/users/j.randon-furling/VAI.html) - The workshop (May 28-29, 2026) is accepting registrations and talk submissions.
